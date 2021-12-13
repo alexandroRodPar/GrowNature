@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alex09/Desktop/Clase/Proyecto Final Grado Superior/Grow Nature/GrowNatureApp/app/src/main/res/drawable/images.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Alex09/Desktop/Clase/Proyecto Final Grado Superior/Grow Nature/GrowNatureApp/app/src/main/res/drawable/my_gradient_drawable.xml" value="0.8" />
+        <entry key="..\:/Users/Alex09/Desktop/Clase/Proyecto Final Grado Superior/Grow Nature/GrowNatureApp/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/Alex09/Desktop/Clase/Proyecto Final Grado Superior/Grow Nature/GrowNatureApp/app/src/main/res/layout/content_main.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
