@@ -2,15 +2,22 @@
     <string name="app_name">GrowNature</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Grow Nature</string>
+    <string name="nav_header_subtitle">Decoraciones para los lugares que tú elijas.</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
+    <string name="menu_info">Información</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
-    <string name="tv_Info">Nuestra app te informará sobre todo tipo de plantaciones comestibles ubicadas en España. Y sobre todo te ayudará a cultivar una o varias de esas plantaciones.</string>
-    <string name="bSalir">Salir</string>
-    <string name="bContinuar">Continuar</string>
+    <string name="tv_Info">Esta app te va a ayudar a decorar tu jardín, con diferentes tipos de plantas, flores y arbustos de decoración.</string>
+    <string name="et_EmailUsuario">Email</string>
+    <string name="et_Password">Password</string>
+    <string name="bIniSes">Iniciar Sesion</string>
+    <string name="bRegis">Registrarse</string>
+    <string name="nav_ArbolesDec">Arboles Decorativos</string>
+    <string name="nav_ejemplos">Ejemplos</string>
+    <string name="nav_config">Configuración</string>
+    <string name="nav_planSinFlorDec">Plantas Sin Flores Decorativas</string>
+    <string name="nav_search">Search</string>
+    <string name="action_contact">Contácteme</string>
 </resources>

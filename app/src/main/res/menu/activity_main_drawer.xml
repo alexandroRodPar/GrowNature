@@ -1,20 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
 
-    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="@string/nav_search"
+        app:actionViewClass="android.widget.SearchView" />
+    <group
+        android:id="@+id/grupo1"
+        android:checkableBehavior="single"
+        android:enabled="true">
         <item
-            android:id="@+id/nav_home"
+            android:id="@+id/nav_info"
             android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
+            android:title="@string/menu_info" />
+    </group>
+    <group
+        android:id="@+id/grupo2"
+        android:enabled="true"
+        android:visible="true">
         <item
-            android:id="@+id/nav_gallery"
+            android:id="@+id/nav_planSinFlorDec"
+            android:icon="@android:drawable/stat_sys_vp_phone_call"
+            android:title="@string/nav_planSinFlorDec" />
+        <item
+            android:id="@+id/nav_planConFlorDec"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_arbustosDec"
             android:icon="@drawable/ic_menu_gallery"
             android:title="@string/menu_gallery" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/nav_arbolesDec"
+            android:icon="@android:drawable/presence_audio_online"
+            android:title="@string/nav_ArbolesDec" />
+    </group>
+    <group
+        android:id="@+id/grupo3"
+        android:enabled="true"
+        android:visible="true">
+        <item
+            android:id="@+id/nav_ejemplos"
+            android:icon="@android:drawable/stat_sys_warning"
+            android:title="@string/nav_ejemplos" />
+    </group>
+    <group
+        android:id="@+id/grupo4"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_config"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="@string/nav_config" />
     </group>
 </menu>
