@@ -1,16 +1,16 @@
-package com.proyecto.alexandrorodriguez.grownature.ui.slideshow;
+package com.proyecto.alexandrorodriguez.grownature.ui.arboles;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class SlideshowViewModel extends ViewModel {
+public class ArbolesViewModel extends ViewModel {
 
     private MutableLiveData<String> mText;
 
-    public SlideshowViewModel() {
+    public ArbolesViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is slideshow fragment");
+        mText.setValue("This is ARBOLES fragment");
     }
 
     public LiveData<String> getText() {

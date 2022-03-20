@@ -1,4 +1,4 @@
-package com.proyecto.alexandrorodriguez.grownature.ui.slideshow;
+package com.proyecto.alexandrorodriguez.grownature.ui.plantasinflores;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,24 +12,23 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.proyecto.alexandrorodriguez.grownature.R;
-import com.proyecto.alexandrorodriguez.grownature.databinding.FragmentSlideshowBinding;
+import com.proyecto.alexandrorodriguez.grownature.databinding.FragmentPlansinfloresBinding;
 
-public class SlideshowFragment extends Fragment {
+public class PlantaSinFloresFragment extends Fragment {
 
-    private SlideshowViewModel slideshowViewModel;
-    private FragmentSlideshowBinding binding;
+    private PlantasSinFloresViewModel plantasSinFloresViewModel;
+    private FragmentPlansinfloresBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        slideshowViewModel =
-                new ViewModelProvider(this).get(SlideshowViewModel.class);
+        plantasSinFloresViewModel =
+                new ViewModelProvider(this).get(PlantasSinFloresViewModel.class);
 
-        binding = FragmentSlideshowBinding.inflate(inflater, container, false);
+        binding = FragmentPlansinfloresBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textSlideshow;
-        slideshowViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
+        final TextView textView = binding.textPlansinflores;
+        plantasSinFloresViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
             @Override
             public void onChanged(@Nullable String s) {
                 textView.setText(s);

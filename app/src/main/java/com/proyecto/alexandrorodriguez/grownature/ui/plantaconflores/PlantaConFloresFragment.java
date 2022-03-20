@@ -1,4 +1,4 @@
-package com.proyecto.alexandrorodriguez.grownature.ui.gallery;
+package com.proyecto.alexandrorodriguez.grownature.ui.plantaconflores;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,24 +12,23 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.proyecto.alexandrorodriguez.grownature.R;
-import com.proyecto.alexandrorodriguez.grownature.databinding.FragmentGalleryBinding;
+import com.proyecto.alexandrorodriguez.grownature.databinding.FragmentPlanconfloresBinding;
 
-public class GalleryFragment extends Fragment {
+public class PlantaConFloresFragment extends Fragment {
 
-    private GalleryViewModel galleryViewModel;
-    private FragmentGalleryBinding binding;
+    private PlantaConFloresViewModel plantaConFloresViewModel;
+    private FragmentPlanconfloresBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        galleryViewModel =
-                new ViewModelProvider(this).get(GalleryViewModel.class);
+        plantaConFloresViewModel =
+                new ViewModelProvider(this).get(PlantaConFloresViewModel.class);
 
-        binding = FragmentGalleryBinding.inflate(inflater, container, false);
+        binding = FragmentPlanconfloresBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textGallery;
-        galleryViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
+        final TextView textView = binding.textPlanconflores;
+        plantaConFloresViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
             @Override
             public void onChanged(@Nullable String s) {
                 textView.setText(s);

@@ -7,35 +7,34 @@
 
     <fragment
         android:id="@+id/nav_ArbolesDec"
-        android:label="@string/nav_ArbolesDec"
-        tools:layout="@layout/fragment_home" />
+        android:name="com.proyecto.alexandrorodriguez.grownature.ui.arboles.ArbolesFragment"
+        android:label="@string/nav_ArbolesDec" />
     <fragment
         android:id="@+id/nav_arbustosDec"
-        android:label="@string/nav_arbustosDec"
-        tools:layout="@layout/fragment_gallery" />
+        android:name="com.proyecto.alexandrorodriguez.grownature.ui.arbustos.ArbustoFragment"
+        android:label="@string/nav_arbustosDec" />
     <fragment
         android:id="@+id/nav_Ejemplos"
-        android:label="@string/nav_ejemplos"
-        tools:layout="@layout/fragment_slideshow" />
-    <fragment
-        android:id="@+id/nav_Config"
-        android:label="@string/nav_config"
-        tools:layout="@layout/fragment_slideshow" />
+        android:name="com.proyecto.alexandrorodriguez.grownature.ui.ejemplos.EjemplosFragment"
+        android:label="@string/nav_ejemplos" />
     <fragment
         android:id="@+id/nav_inicio"
-        android:name="com.proyecto.alexandrorodriguez.grownature.ui.home.HomeFragment"
+        android:name="com.proyecto.alexandrorodriguez.grownature.ui.inicio.InicioFragment"
         android:label="@string/nav_inicio"
-        tools:layout="@layout/fragment_home" />
-
-    <fragment
-        android:id="@+id/nav_plansinflodec"
-        android:name="com.proyecto.alexandrorodriguez.grownature.ui.gallery.GalleryFragment"
-        android:label="@string/nav_planSinFlorDec"
-        tools:layout="@layout/fragment_gallery" />
+        tools:layout="@layout/fragment_arboles" />
 
     <fragment
         android:id="@+id/nav_planConFlorDec"
-        android:name="com.proyecto.alexandrorodriguez.grownature.ui.slideshow.SlideshowFragment"
+        android:name="com.proyecto.alexandrorodriguez.grownature.ui.plantaconflores.PlantaConFloresFragment"
         android:label="@string/nav_planConFlorDec"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_planconflores" />
+    <fragment
+        android:id="@+id/nav_plansinflordec"
+        android:name="com.proyecto.alexandrorodriguez.grownature.ui.plantasinflores.PlantaSinFloresFragment"
+        android:label="@string/nav_planSinFlorDec"
+        tools:layout="@layout/fragment_plansinflores" />
+    <fragment
+        android:id="@+id/nav_Config"
+        android:name="com.proyecto.alexandrorodriguez.grownature.ui.configuracion.ConfiguracionFragment"
+        android:label="@string/nav_config" />
 </navigation>

@@ -15,7 +15,7 @@
         android:enabled="true">
         <item
             android:id="@+id/nav_inicio"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@drawable/incio"
             android:title="@string/nav_inicio" />
     </group>
     <group
@@ -24,19 +24,19 @@
         android:visible="true">
         <item
             android:id="@+id/nav_planSinFlorDec"
-            android:icon="@android:drawable/stat_sys_vp_phone_call"
+            android:icon="@drawable/plantasinflores"
             android:title="@string/nav_planSinFlorDec" />
         <item
             android:id="@+id/nav_planConFlorDec"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/plantaconflores"
             android:title="@string/nav_planConFlorDec" />
         <item
-            android:id="@+id/nav_plansinflodec"
-            android:icon="@drawable/ic_menu_gallery"
+            android:id="@+id/nav_arbustoDec"
+            android:icon="@drawable/arbusto"
             android:title="@string/nav_arbustosDec" />
         <item
             android:id="@+id/nav_arbolesDec"
-            android:icon="@android:drawable/presence_audio_online"
+            android:icon="@drawable/arbol"
             android:title="@string/nav_ArbolesDec" />
     </group>
     <group
@@ -45,7 +45,7 @@
         android:visible="true">
         <item
             android:id="@+id/nav_ejemplos"
-            android:icon="@android:drawable/stat_sys_warning"
+            android:icon="@drawable/ic_menu_gallery"
             android:title="@string/nav_ejemplos" />
     </group>
     <group
