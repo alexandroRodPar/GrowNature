@@ -3,23 +3,39 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/nav_info">
+    app:startDestination="@+id/nav_inicio">
 
     <fragment
-        android:id="@+id/nav_info"
+        android:id="@+id/nav_ArbolesDec"
+        android:label="@string/nav_ArbolesDec"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_arbustosDec"
+        android:label="@string/nav_arbustosDec"
+        tools:layout="@layout/fragment_gallery" />
+    <fragment
+        android:id="@+id/nav_Ejemplos"
+        android:label="@string/nav_ejemplos"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_Config"
+        android:label="@string/nav_config"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_inicio"
         android:name="com.proyecto.alexandrorodriguez.grownature.ui.home.HomeFragment"
-        android:label="@string/menu_info"
+        android:label="@string/nav_inicio"
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_arbustosDec"
+        android:id="@+id/nav_plansinflodec"
         android:name="com.proyecto.alexandrorodriguez.grownature.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
+        android:label="@string/nav_planSinFlorDec"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/nav_planConFlorDec"
         android:name="com.proyecto.alexandrorodriguez.grownature.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
+        android:label="@string/nav_planConFlorDec"
         tools:layout="@layout/fragment_slideshow" />
 </navigation>

@@ -14,9 +14,9 @@
         android:checkableBehavior="single"
         android:enabled="true">
         <item
-            android:id="@+id/nav_info"
+            android:id="@+id/nav_inicio"
             android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_info" />
+            android:title="@string/nav_inicio" />
     </group>
     <group
         android:id="@+id/grupo2"
@@ -29,11 +29,11 @@
         <item
             android:id="@+id/nav_planConFlorDec"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:title="@string/nav_planConFlorDec" />
         <item
-            android:id="@+id/nav_arbustosDec"
+            android:id="@+id/nav_plansinflodec"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:title="@string/nav_arbustosDec" />
         <item
             android:id="@+id/nav_arbolesDec"
             android:icon="@android:drawable/presence_audio_online"
