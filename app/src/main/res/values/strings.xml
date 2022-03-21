@@ -6,20 +6,20 @@
     <string name="nav_header_subtitle">Decoraciones para los lugares que tú elijas.</string>
     <string name="nav_header_desc">Navigation header</string>
 
-    <string name="nav_inicio">Inicio</string>
+    <string name="texto_inicio">Inicio</string>
     <string name="tv_Info">Esta app te va a ayudar a decorar tu jardín, con diferentes tipos de plantas, flores y arbustos de decoración.</string>
     <string name="et_EmailUsuario">Email</string>
     <string name="et_Password">Password</string>
     <string name="bIniSes">Iniciar Sesion</string>
     <string name="bRegis">Registrarse</string>
-    <string name="nav_ArbolesDec">Arboles Decorativos</string>
-    <string name="nav_ejemplos">Galeria de Ejemplos</string>
-    <string name="nav_config">Configuración</string>
-    <string name="nav_planSinFlorDec">Plantas sin flores decorativas</string>
-    <string name="nav_search">Search</string>
+    <string name="texto_ArbolesDec">Arboles Decorativos</string>
+    <string name="texto_ejemplos">Galeria de Ejemplos</string>
+    <string name="texto_config">Configuración</string>
+    <string name="texto_planSinFlorDec">Plantas sin flores decorativas</string>
+    <string name="texto_search">Search</string>
     <string name="action_contact">Contácteme</string>
-    <string name="nav_arbustosDec">Arbustos Decorativos</string>
-    <string name="nav_planConFlorDec">Plantas con flores decorativas</string>
+    <string name="texto_arbustosDec">Arbustos Decorativos</string>
+    <string name="texto_planConFlorDec">Plantas con flores decorativas</string>
     <!-- Preference Titles -->
     <string name="messages_header">Messages</string>
     <string name="sync_header">Sync</string>
