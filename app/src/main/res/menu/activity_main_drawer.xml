@@ -23,19 +23,19 @@
         android:enabled="true"
         android:visible="true">
         <item
-            android:id="@+id/nav_planSinFlorDec"
+            android:id="@+id/nav_plansinflordec"
             android:icon="@drawable/plantasinflores"
             android:title="@string/texto_planSinFlorDec" />
         <item
-            android:id="@+id/nav_planConFlorDec"
+            android:id="@+id/nav_planconflordec"
             android:icon="@drawable/plantaconflores"
             android:title="@string/texto_planConFlorDec" />
         <item
-            android:id="@+id/nav_arbustoDec"
+            android:id="@+id/nav_arbustodec"
             android:icon="@drawable/arbusto"
-            android:title="@string/texto_ArbolesDec" />
+            android:title="@string/texto_arbustosDec" />
         <item
-            android:id="@+id/nav_arbolesDec"
+            android:id="@+id/nav_arbolesdec"
             android:icon="@drawable/arbol"
             android:title="@string/texto_ArbolesDec" />
     </group>

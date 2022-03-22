@@ -3,42 +3,38 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@id/nav_ArbolesDec">
+    app:startDestination="@id/nav_inicio">
 
-    <fragment
-        android:id="@+id/nav_ArbolesDec"
-        android:name="com.proyecto.alexandrorodriguez.grownature.ui.arboles.ArbolesFragment"
-        android:label="@string/texto_ArbolesDec"
-        tools:layout="@layout/fragment_arboles" />
-    <fragment
-        android:id="@+id/nav_arbustosDec"
-        android:name="com.proyecto.alexandrorodriguez.grownature.ui.arbustos.ArbustoFragment"
-        android:label="@string/texto_arbustosDec"
-        tools:layout="@layout/fragment_arbusto" />
-    <fragment
-        android:id="@+id/nav_Ejemplos"
-        android:name="com.proyecto.alexandrorodriguez.grownature.ui.ejemplos.EjemplosFragment"
-        android:label="@string/texto_ejemplos"
-        tools:layout="@layout/fragment_ejemplo" />
-
-    <fragment
-        android:id="@+id/nav_planConFlorDec"
-        android:name="com.proyecto.alexandrorodriguez.grownature.ui.plantaconflores.PlantaConFloresFragment"
-        android:label="@string/texto_planConFlorDec"
-        tools:layout="@layout/fragment_planconflores" />
     <fragment
         android:id="@+id/nav_plansinflordec"
         android:name="com.proyecto.alexandrorodriguez.grownature.ui.plantasinflores.PlantaSinFloresFragment"
         android:label="@string/texto_planSinFlorDec"
         tools:layout="@layout/fragment_plansinflores" />
     <fragment
-        android:id="@+id/nav_Config"
-        android:name="com.proyecto.alexandrorodriguez.grownature.ui.configuracion.ConfiguracionFragment"
-        android:label="@string/texto_config" />
-    <fragment
         android:id="@+id/nav_inicio"
         android:name="com.proyecto.alexandrorodriguez.grownature.ui.inicio.InicioFragment"
         android:label="@string/texto_inicio"
         tools:layout="@layout/fragment_inicio" />
+
+    <fragment
+        android:id="@+id/nav_planconflordec"
+        android:name="com.proyecto.alexandrorodriguez.grownature.ui.plantaconflores.PlantaConFloresFragment"
+        android:label="@string/texto_planConFlorDec"
+        tools:layout="@layout/fragment_planconflores" />
+    <fragment
+        android:id="@+id/nav_arbustodec"
+        android:name="com.proyecto.alexandrorodriguez.grownature.ui.arbustos.ArbustoFragment"
+        android:label="@string/texto_arbustosDec"
+        tools:layout="@layout/fragment_arbusto" />
+    <fragment
+        android:id="@+id/nav_arbolesdec"
+        android:name="com.proyecto.alexandrorodriguez.grownature.ui.arboles.ArbolesFragment"
+        android:label="@string/texto_ArbolesDec"
+        tools:layout="@layout/fragment_arboles" />
+    <fragment
+        android:id="@+id/nav_ejemplos"
+        android:name="com.proyecto.alexandrorodriguez.grownature.ui.ejemplos.EjemplosFragment"
+        android:label="@string/texto_ejemplos"
+        tools:layout="@layout/fragment_ejemplo" />
 
 </navigation>

@@ -2,10 +2,8 @@ package com.proyecto.alexandrorodriguez.grownature;
 
 import android.os.Bundle;
 import android.view.MenuItem;
-import android.view.View;
 import android.view.Menu;
 
-import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
 import com.proyecto.alexandrorodriguez.grownature.databinding.ActivityMainBinding;
 
@@ -65,15 +63,13 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.nav_plansinflordec:
                 break;
-            case R.id.nav_planConFlorDec:
+            case R.id.nav_planconflordec:
                 break;
-            case R.id.nav_arbustosDec:
+            case R.id.nav_arbustodec:
                 break;
-            case R.id.nav_ArbolesDec:
+            case R.id.nav_arbolesdec:
                 break;
-            case R.id.nav_Ejemplos:
-                break;
-            case R.id.nav_Config:
+            case R.id.nav_ejemplos:
                 break;
 
         }
