@@ -17,7 +17,9 @@
     <string name="texto_config">Configuración</string>
     <string name="texto_planSinFlorDec">Plantas sin flores decorativas</string>
     <string name="texto_search">Search</string>
+    <string name="texto_prefere">Preferencias</string>
     <string name="action_contact">Contácteme</string>
+
     <string name="texto_arbustosDec">Arbustos Decorativos</string>
     <string name="texto_planConFlorDec">Plantas con flores decorativas</string>
     <!-- Preference Titles -->

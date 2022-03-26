@@ -3,9 +3,11 @@ package com.proyecto.alexandrorodriguez.grownature;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.Menu;
+import android.widget.Toast;
 
 import com.google.android.material.navigation.NavigationView;
 import com.proyecto.alexandrorodriguez.grownature.databinding.ActivityMainBinding;
+import com.proyecto.alexandrorodriguez.grownature.ui.arbustos.ArbustoFragment;
 
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
@@ -54,26 +56,5 @@ public class MainActivity extends AppCompatActivity {
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
         return NavigationUI.navigateUp(navController, mAppBarConfiguration)
                 || super.onSupportNavigateUp();
-    }
-
-    public boolean onNavigationItemSelected(MenuItem item){
-
-        switch(item.getItemId()){
-            case R.id.nav_inicio:
-                break;
-            case R.id.nav_plansinflordec:
-                break;
-            case R.id.nav_planconflordec:
-                break;
-            case R.id.nav_arbustodec:
-                break;
-            case R.id.nav_arbolesdec:
-                break;
-            case R.id.nav_ejemplos:
-                break;
-
-        }
-
-        return true;
     }
 }
