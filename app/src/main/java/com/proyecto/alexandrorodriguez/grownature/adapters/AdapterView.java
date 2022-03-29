@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.ImageView;
+import android.widget.TextClock;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -14,13 +15,18 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.proyecto.alexandrorodriguez.grownature.R;
+import com.proyecto.alexandrorodriguez.grownature.model.PlantasArbustosArboles;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class AdapterView extends RecyclerView.Adapter<AdapterView.AdapterViewHolder>{
 
+    ArrayList<PlantasArbustosArboles> listaPAA;
 
-
+    public AdapterView(ArrayList<PlantasArbustosArboles> listaPAA) {
+        this.listaPAA = listaPAA;
+    }
 
     @NonNull
     @Override
@@ -31,15 +37,14 @@ public class AdapterView extends RecyclerView.Adapter<AdapterView.AdapterViewHol
 
     @Override
     public void onBindViewHolder(@NonNull AdapterViewHolder holder, int position) {
-
-
-
-
+        holder.i_foto.setImageResource(listaPAA.get(position).getImagen());
+        holder.tv_Nombre.setText(listaPAA.get(position).getNombre());
+        holder.tv_Descripcion.setText(listaPAA.get(position).getBreveDescripcion());
     }
 
     @Override
     public int getItemCount() {
-        return 0;
+        return listaPAA.size();
     }
 
     /**
@@ -47,11 +52,16 @@ public class AdapterView extends RecyclerView.Adapter<AdapterView.AdapterViewHol
      */
     public class AdapterViewHolder extends RecyclerView.ViewHolder {
         /**ATRIBUTOS**/
-
+        private TextView tv_Descripcion;
+        private TextView tv_Nombre;
+        private ImageView i_foto;
 
         public AdapterViewHolder(@NonNull View itemView) {
             super(itemView);
 
+            tv_Descripcion = itemView.findViewById(R.id.tv_Descripcion);
+            tv_Nombre = itemView.findViewById(R.id.tv_Nombre);
+            i_foto = itemView.findViewById(R.id.i_foto);
         }
 
 
