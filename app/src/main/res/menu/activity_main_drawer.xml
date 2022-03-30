@@ -5,19 +5,9 @@
     tools:showIn="navigation_view">
 
     <item
-        android:id="@+id/nav_search"
-        android:icon="@drawable/ic_search_black_24dp"
-        android:title="@string/texto_search"
-        app:actionViewClass="android.widget.SearchView" />
-    <group
-        android:id="@+id/grupo1"
-        android:checkableBehavior="single"
-        android:enabled="true">
-        <item
-            android:id="@+id/nav_inicio"
-            android:icon="@drawable/incio"
-            android:title="@string/texto_inicio" />
-    </group>
+        android:id="@+id/nav_inicio"
+        android:icon="@drawable/incio"
+        android:title="@string/texto_inicio" />
     <group
         android:id="@+id/grupo2"
         android:enabled="true"

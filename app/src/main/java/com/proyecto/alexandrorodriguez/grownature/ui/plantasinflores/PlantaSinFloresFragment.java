@@ -11,9 +11,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.proyecto.alexandrorodriguez.grownature.R;
 import com.proyecto.alexandrorodriguez.grownature.adapters.AdapterView;
-import com.proyecto.alexandrorodriguez.grownature.databinding.FragmentPlansinfloresBinding;
 import com.proyecto.alexandrorodriguez.grownature.model.PlantasArbustosArboles;
-import com.proyecto.alexandrorodriguez.grownature.ui.prueba;
 
 import java.util.ArrayList;
 

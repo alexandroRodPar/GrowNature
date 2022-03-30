@@ -11,37 +11,52 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
+import com.proyecto.alexandrorodriguez.grownature.R;
+import com.proyecto.alexandrorodriguez.grownature.adapters.AdapterView;
 import com.proyecto.alexandrorodriguez.grownature.databinding.FragmentArbolesBinding;
+import com.proyecto.alexandrorodriguez.grownature.model.PlantasArbustosArboles;
+
+import java.util.ArrayList;
 
 
 public class ArbolesFragment extends Fragment {
 
-    private ArbolesViewModel arbolesViewModel;
-    private FragmentArbolesBinding binding;
+    private RecyclerView rv_arboles;
+    private ArrayList<PlantasArbustosArboles> listaPAA;
 
-    public View onCreateView(@NonNull LayoutInflater inflater,
-                             ViewGroup container, Bundle savedInstanceState) {
-        arbolesViewModel =
-                new ViewModelProvider(this).get(ArbolesViewModel.class);
+    public ArbolesFragment() {
+        // Required empty public constructor
+    }
 
-        binding = FragmentArbolesBinding.inflate(inflater, container, false);
-        View root = binding.getRoot();
 
-        final TextView textView = binding.textArboles;
-        arbolesViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
-            @Override
-            public void onChanged(@Nullable String s) {
-                textView.setText(s);
-            }
-        });
-
-        return root;
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
     }
 
     @Override
-    public void onDestroyView() {
-        super.onDestroyView();
-        binding = null;
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
+        View vista = inflater.inflate(R.layout.fragment_arboles, container, false);
+        listaPAA = new ArrayList<>();
+
+        rv_arboles = vista.findViewById(R.id.rv_arboles);
+        rv_arboles.setLayoutManager(new LinearLayoutManager(getContext()));
+
+        llenarLista();
+
+        AdapterView adapter = new AdapterView(listaPAA);
+        rv_arboles.setAdapter(adapter);
+
+        return vista;
+    }
+
+    private void llenarLista() {
+        listaPAA.add(new PlantasArbustosArboles("Helechos", "Es una planta, con terreno húmedo fffffffffffffffffffffffffffffffffffffffffffffffffffffffff", R.drawable.helechos));
+        listaPAA.add(new PlantasArbustosArboles("Hiedra", "Es una planta, que necesita humedad fffffffffffffffffffffffffffff", R.drawable.helechos));
+        listaPAA.add(new PlantasArbustosArboles("MAnzano", "Es una planta, que necesita calidez ffffffffffffffffffffff", R.drawable.helechos));
     }
 }

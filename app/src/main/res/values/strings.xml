@@ -7,7 +7,7 @@
     <string name="nav_header_desc">Navigation header</string>
 
     <string name="texto_inicio">Inicio</string>
-    <string name="tv_Info">Esta app te va a ayudar a decorar tu jardín, con diferentes tipos de plantas, flores y arbustos de decoración.</string>
+    <string name="tv_Info">Esta app te va a ayudar a decorar tu jardín, con diferentes tipos de plantas, arbustos y árboles de decoración.</string>
     <string name="et_EmailUsuario">Email</string>
     <string name="et_Password">Password</string>
     <string name="bIniSes">Iniciar Sesion</string>
@@ -38,4 +38,5 @@
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_nombreIni">GROW NATURE</string>
 </resources>

@@ -16,24 +16,18 @@ import com.proyecto.alexandrorodriguez.grownature.databinding.FragmentInicioBind
 
 public class InicioFragment extends Fragment {
 
-    private InicioViewModel inicioViewModel;
+    //private InicioViewModel inicioViewModel;
     private FragmentInicioBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        inicioViewModel =
-                new ViewModelProvider(this).get(InicioViewModel.class);
+
 
         binding = FragmentInicioBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textInicio;
-        inicioViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
-            @Override
-            public void onChanged(@Nullable String s) {
-                textView.setText(s);
-            }
-        });
+
+
         return root;
     }
 
