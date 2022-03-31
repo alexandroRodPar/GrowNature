@@ -54,9 +54,13 @@ public class ArbolesFragment extends Fragment {
         return vista;
     }
 
+
     private void llenarLista() {
-        listaPAA.add(new PlantasArbustosArboles("Helechos", "Es una planta, con terreno húmedo fffffffffffffffffffffffffffffffffffffffffffffffffffffffff", R.drawable.helechos));
-        listaPAA.add(new PlantasArbustosArboles("Hiedra", "Es una planta, que necesita humedad fffffffffffffffffffffffffffff", R.drawable.helechos));
-        listaPAA.add(new PlantasArbustosArboles("MAnzano", "Es una planta, que necesita calidez ffffffffffffffffffffff", R.drawable.helechos));
+        listaPAA.add(new PlantasArbustosArboles("Arce Japonés", "Esto es una breve descripción sobre el árbol", R.drawable.arboljupiter));
+        listaPAA.add(new PlantasArbustosArboles("Altea Rosa de Siria", "Esto es una breve descripción sobre el árbol", R.drawable.arboljupiter));
+        listaPAA.add(new PlantasArbustosArboles("Árbol de Júpiter", "Esto es una breve descripción sobre el árbol", R.drawable.arboljupiter));
+        listaPAA.add(new PlantasArbustosArboles("Lila Común", "Esto es una breve descripción sobre el árbol", R.drawable.arboljupiter));
+        listaPAA.add(new PlantasArbustosArboles("Aligustre", "Esto es una breve descripción sobre el árbol", R.drawable.arboljupiter));
+        listaPAA.add(new PlantasArbustosArboles("Lagerstroemia Indica", "Esto es una breve descripción sobre el árbol", R.drawable.arboljupiter));
     }
 }

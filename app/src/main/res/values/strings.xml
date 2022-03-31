@@ -39,4 +39,12 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="tv_nombreIni">GROW NATURE</string>
+    <string name="tv_descPlanta">Descripción</string>
+    <string name="tv_plantacion">Plantación</string>
+    <string name="tv_riego">Riego</string>
+    <string name="tv_clima">Clima: </string>
+    <string name="tv_crecimiento">Crecimiento</string>
+    <string name="tv_precioAprox">Coste: </string>
+    <string name="tv_lugaresComprar">Puede encontrarlo en: </string>
+    <string name="tv_textEjemplo">EJEMPLO</string>
 </resources>

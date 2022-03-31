@@ -30,15 +30,6 @@
             android:title="@string/texto_ArbolesDec" />
     </group>
     <group
-        android:id="@+id/grupo3"
-        android:enabled="true"
-        android:visible="true">
-        <item
-            android:id="@+id/nav_ejemplos"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/texto_ejemplos" />
-    </group>
-    <group
         android:id="@+id/grupo4"
         android:checkableBehavior="none">
         <item

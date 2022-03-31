@@ -54,8 +54,11 @@ public class PlantaConFloresFragment extends Fragment {
     }
 
     private void llenarLista() {
-        listaPAA.add(new PlantasArbustosArboles("Helechos", "Es una planta, con terreno húmedo fffffffffffffffffffffffffffffffffffffffffffffffffffffffff", R.drawable.helechos));
-        listaPAA.add(new PlantasArbustosArboles("Piedras", "Es una planta, que necesita humedad fffffffffffffffffffffffffffff", R.drawable.helechos));
-        listaPAA.add(new PlantasArbustosArboles("Bambú", "Es una planta, que necesita calidez ffffffffffffffffffffff", R.drawable.helechos));
+        listaPAA.add(new PlantasArbustosArboles("Glicinia", "Esto es una breve descripción sobre la planta con flor", R.drawable.dalia));
+        listaPAA.add(new PlantasArbustosArboles("Rosas Negras", "Esto es una breve descripción sobre la planta con flor", R.drawable.dalia));
+        listaPAA.add(new PlantasArbustosArboles("Rosas Blancas", "Esto es una breve descripción sobre la planta con flor", R.drawable.dalia));
+        listaPAA.add(new PlantasArbustosArboles("Dalia", "Esto es una breve descripción sobre la planta con flor", R.drawable.dalia));
+        listaPAA.add(new PlantasArbustosArboles("Azalea", "Esto es una breve descripción sobre la planta con flor", R.drawable.dalia));
+        listaPAA.add(new PlantasArbustosArboles("Astilbes", "Esto es una breve descripción sobre la planta con flor", R.drawable.dalia));
     }
 }

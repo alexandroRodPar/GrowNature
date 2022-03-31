@@ -44,12 +44,17 @@ public class PlantaSinFloresFragment extends Fragment {
         AdapterView adapter = new AdapterView(listaPAA);
         rv_sinflores.setAdapter(adapter);
 
+
+
         return vista;
     }
 
     private void llenarLista() {
-        listaPAA.add(new PlantasArbustosArboles("Helechos", "Es una planta, con terreno húmedo fffffffffffffffffffffffffffffffffffffffffffffffffffffffff", R.drawable.helechos));
-        listaPAA.add(new PlantasArbustosArboles("Hiedra", "Es una planta, que necesita humedad fffffffffffffffffffffffffffff", R.drawable.helechos));
-        listaPAA.add(new PlantasArbustosArboles("Bambú", "Es una planta, que necesita calidez ffffffffffffffffffffff", R.drawable.helechos));
+        listaPAA.add(new PlantasArbustosArboles("Helechos", "Esto es una breve descripción sobre la planta sin flor", R.drawable.helechos));
+        listaPAA.add(new PlantasArbustosArboles("Hiedra", "Esto es una breve descripción sobre la planta sin flor", R.drawable.helechos));
+        listaPAA.add(new PlantasArbustosArboles("Bambú", "Esto es una breve descripción sobre la planta sin flor", R.drawable.helechos));
+        listaPAA.add(new PlantasArbustosArboles("Adelfa Roja", "Esto es una breve descripción sobre la planta sin flor", R.drawable.helechos));
+        listaPAA.add(new PlantasArbustosArboles("Agapanto", "Esto es una breve descripción sobre la planta sin flor", R.drawable.helechos));
+        listaPAA.add(new PlantasArbustosArboles("Aralia de Japón", "Esto es una breve descripción sobre la planta sin flor", R.drawable.helechos));
     }
 }

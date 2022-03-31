@@ -53,9 +53,13 @@ public class ArbustoFragment extends Fragment {
         return vista;
     }
 
+
     private void llenarLista() {
-        listaPAA.add(new PlantasArbustosArboles("Bonsai", "Es una planta, con terreno húmedo fffffffffffffffffffffffffffffffffffffffffffffffffffffffff", R.drawable.helechos));
-        listaPAA.add(new PlantasArbustosArboles("Hiedra", "Es una planta, que necesita humedad fffffffffffffffffffffffffffff", R.drawable.helechos));
-        listaPAA.add(new PlantasArbustosArboles("Bambú", "Es una planta, que necesita calidez ffffffffffffffffffffff", R.drawable.helechos));
+        listaPAA.add(new PlantasArbustosArboles("Galan de noche", "Esto es una breve descripción sobre el arbusto", R.drawable.fotinia));
+        listaPAA.add(new PlantasArbustosArboles("Fotinia", "Esto es una breve descripción sobre el arbusto", R.drawable.fotinia));
+        listaPAA.add(new PlantasArbustosArboles("Acebo (ilex Aquifolium)", "Esto es una breve descripción sobre el arbusto", R.drawable.fotinia));
+        listaPAA.add(new PlantasArbustosArboles("Andrómeda Japonesa (Pieris Japonica)", "Esto es una breve descripción sobre el arbusto", R.drawable.fotinia));
+        listaPAA.add(new PlantasArbustosArboles("Berberis Thunbergil Green Carpet", "Esto es una breve descripción sobre el arbusto", R.drawable.fotinia));
+        listaPAA.add(new PlantasArbustosArboles("Berberis Thunbergil Admiration", "Esto es una breve descripción sobre el arbusto", R.drawable.fotinia));
     }
 }
