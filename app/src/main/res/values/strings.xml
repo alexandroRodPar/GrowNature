@@ -47,4 +47,21 @@
     <string name="tv_precioAprox">Coste: </string>
     <string name="tv_lugaresComprar">Puede encontrarlo en: </string>
     <string name="tv_textEjemplo">EJEMPLO</string>
+
+
+
+    <!-- Características de las plantas y demás -->
+        <!-- PLANTAS SIN FLORES-->
+            <!-- HELECHOS-->
+            <string name="nombre_helecho">HELECHO</string>
+            <string name="descripcion_helecho">Los helechos son plantas milenarias y ornamentales con características únicas dentro del reino vegetal. Poseen un ciclo reproductivo muy particular, ya que a diferencia de casi todas las plantas, los helechos no se reproducen por semillas sino que lo hacen a través de la producción y liberación de miles de esporas. Esta hermosa planta proveniente de zonas cálidas y húmedas se ha convertido, gracias a su vistosidad y adaptabilidad, en invitada permanente en hogares y oficinas. Se estima que existen más de diez mil especies de helechos en todo el planeta.</string>
+            <string name="plantacion_helecho">Se puede plantar a lo largo de todo el año, no hay una época específica para plantar esta planta.</string>
+            <string name="crecimiento_helecho">Muchos helechos son de crecimiento lento y tardan varios años en alcanzar su tamaño completo.</string>
+            <string name="riego_helecho">Está planta en temperaturas cálidas, hya que regarla muy frecuentemente, pero en temperaturas más frías, no se debe regar mucho.</string>
+            <string name="clima_helecho">Tanto de interior como de exterior necesitan tener el suelo húmedo y con sombra.</string>
+            <string name="precio_helecho">200 esporas de helecho, unos 7 u 8€.</string>
+            <string name="donde_comprar_helecho">Tienda Online: Etsy.</string>
+
+
+
 </resources>

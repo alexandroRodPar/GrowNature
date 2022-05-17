@@ -54,7 +54,6 @@ public class ArbolesFragment extends Fragment {
         return vista;
     }
 
-
     private void llenarLista() {
         listaPAA.add(new PlantasArbustosArboles("Arce Japonés", "Esto es una breve descripción sobre el árbol", R.drawable.arboljupiter));
         listaPAA.add(new PlantasArbustosArboles("Altea Rosa de Siria", "Esto es una breve descripción sobre el árbol", R.drawable.arboljupiter));

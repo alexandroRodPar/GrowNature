@@ -50,7 +50,7 @@ public class PlantaSinFloresFragment extends Fragment {
     }
 
     private void llenarLista() {
-        listaPAA.add(new PlantasArbustosArboles("Helechos", "Esto es una breve descripción sobre la planta sin flor", R.drawable.helechos));
+        listaPAA.add(new PlantasArbustosArboles("Helechos", getString(R.string.descripcion_helecho), R.drawable.helechos));
         listaPAA.add(new PlantasArbustosArboles("Hiedra", "Esto es una breve descripción sobre la planta sin flor", R.drawable.helechos));
         listaPAA.add(new PlantasArbustosArboles("Bambú", "Esto es una breve descripción sobre la planta sin flor", R.drawable.helechos));
         listaPAA.add(new PlantasArbustosArboles("Adelfa Roja", "Esto es una breve descripción sobre la planta sin flor", R.drawable.helechos));
