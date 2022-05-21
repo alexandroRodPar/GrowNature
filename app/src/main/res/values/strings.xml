@@ -49,19 +49,592 @@
     <string name="tv_textEjemplo">EJEMPLO</string>
 
 
+<!-- Características de las plantas y demás -->
+  <!-- PLANTAS SIN FLORES-->
+    <!-- HELECHOS -->
+    <string name="nombre_helecho">HELECHO</string>
+    <string name="descripcion_helecho">Los helechos son plantas milenarias y ornamentales con características únicas dentro del reino vegetal. Poseen un ciclo reproductivo muy particular, ya que a diferencia de casi todas las plantas, los helechos no se reproducen por semillas sino que lo hacen a través de la producción y liberación de miles de esporas. Esta hermosa planta proveniente de zonas cálidas y húmedas se ha convertido, gracias a su vistosidad y adaptabilidad, en invitada permanente en hogares y oficinas. Se estima que existen más de diez mil especies de helechos en todo el planeta.</string>
+    <string name="plantacion_helecho">Se puede plantar a lo largo de todo el año, no hay una época específica para plantar esta planta.</string>
+    <string name="crecimiento_helecho">Muchos helechos son de crecimiento lento y tardan varios años en alcanzar su tamaño completo.</string>
+    <string name="riego_helecho">Está planta en temperaturas cálidas, hya que regarla muy frecuentemente, pero en temperaturas más frías, no se debe regar mucho.</string>
+    <string name="clima_helecho">Tanto de interior como de exterior necesitan tener el suelo húmedo y con sombra.</string>
+    <string name="precio_helecho">200 esporas de helecho, unos 7 u 8€.</string>
+    <string name="donde_comprar_helecho">Tienda Online: Etsy.</string>
 
-    <!-- Características de las plantas y demás -->
-        <!-- PLANTAS SIN FLORES-->
-            <!-- HELECHOS-->
-            <string name="nombre_helecho">HELECHO</string>
-            <string name="descripcion_helecho">Los helechos son plantas milenarias y ornamentales con características únicas dentro del reino vegetal. Poseen un ciclo reproductivo muy particular, ya que a diferencia de casi todas las plantas, los helechos no se reproducen por semillas sino que lo hacen a través de la producción y liberación de miles de esporas. Esta hermosa planta proveniente de zonas cálidas y húmedas se ha convertido, gracias a su vistosidad y adaptabilidad, en invitada permanente en hogares y oficinas. Se estima que existen más de diez mil especies de helechos en todo el planeta.</string>
-            <string name="plantacion_helecho">Se puede plantar a lo largo de todo el año, no hay una época específica para plantar esta planta.</string>
-            <string name="crecimiento_helecho">Muchos helechos son de crecimiento lento y tardan varios años en alcanzar su tamaño completo.</string>
-            <string name="riego_helecho">Está planta en temperaturas cálidas, hya que regarla muy frecuentemente, pero en temperaturas más frías, no se debe regar mucho.</string>
-            <string name="clima_helecho">Tanto de interior como de exterior necesitan tener el suelo húmedo y con sombra.</string>
-            <string name="precio_helecho">200 esporas de helecho, unos 7 u 8€.</string>
-            <string name="donde_comprar_helecho">Tienda Online: Etsy.</string>
+    <!-- HIEDRA -->
+    <string name="nombre_hiedra"></string>
+    <string name="descripcion_hiedra"></string>
+    <string name="plantacion_hiedra"></string>
+    <string name="crecimiento_hiedra"></string>
+    <string name="riego_hiedra"></string>
+    <string name="clima_hiedra"></string>
+    <string name="precio_hiedra"></string>
+    <string name="donde_comprar_hiedra"></string>
 
+    <!-- BAMBÚ -->
+    <string name="nombre_bambu"></string>
+    <string name="descripcion_bambu"></string>
+    <string name="plantacion_bambu"></string>
+    <string name="crecimiento_bambu"></string>
+    <string name="riego_bambu"></string>
+    <string name="clima_bambu"></string>
+    <string name="precio_bambu"></string>
+    <string name="donde_comprar_bambu"></string>
+
+    <!-- AGAPANTO -->
+    <string name="nombre_agapanto"></string>
+    <string name="descripcion_agapanto"></string>
+    <string name="plantacion_agapanto"></string>
+    <string name="crecimiento_agapanto"></string>
+    <string name="riego_agapanto"></string>
+    <string name="clima_agapanto"></string>
+    <string name="precio_agapanto"></string>
+    <string name="donde_comprar_agapanto"></string>
+
+    <!-- LAMIUM MACULATUM MIX -->
+    <string name="nombre_lamium_maculatum_mix"></string>
+    <string name="descripcion_lmm"></string>
+    <string name="plantacion_lmm"></string>
+    <string name="crecimiento_lmm"></string>
+    <string name="riego_lmm"></string>
+    <string name="clima_lmm"></string>
+    <string name="precio_lmm"></string>
+    <string name="donde_comprar_lmm"></string>
+
+    <!-- PEPEROMIA -->
+    <string name="nombre_peperomia"></string>
+    <string name="descripcion_peperomia"></string>
+    <string name="plantacion_peperomia"></string>
+    <string name="crecimiento_peperomia"></string>
+    <string name="riego_peperomia"></string>
+    <string name="clima_peperomia"></string>
+    <string name="precio_peperomia"></string>
+    <string name="donde_comprar_peperomia"></string>
+
+    <!-- ALOCASIA -->
+    <string name="nombre_alocasia"></string>
+    <string name="descripcion_alocasia"></string>
+    <string name="plantacion_alocasia"></string>
+    <string name="crecimiento_alocasia"></string>
+    <string name="riego_alocasia"></string>
+    <string name="clima_alocasia"></string>
+    <string name="precio_alocasia"></string>
+    <string name="donde_comprar_alocasia"></string>
+
+    <!-- CÓLEO -->
+    <string name="nombre_coleo"></string>
+    <string name="descripcion_coleo"></string>
+    <string name="plantacion_coleo"></string>
+    <string name="crecimiento_coleo"></string>
+    <string name="riego_coleo"></string>
+    <string name="clima_coleo"></string>
+    <string name="precio_coleo"></string>
+    <string name="donde_comprar_coleo"></string>
+
+    <!-- FITONIA -->
+    <string name="nombre_fitonia"></string>
+    <string name="descripcion_fitonia"></string>
+    <string name="plantacion_fitonia"></string>
+    <string name="crecimiento_fitonia"></string>
+    <string name="riego_fitonia"></string>
+    <string name="clima_fitonia"></string>
+    <string name="precio_fitonia"></string>
+    <string name="donde_comprar_fitonia"></string>
+
+    <!-- KENTIA -->
+    <string name="nombre_kentia"></string>
+    <string name="descripcion_kentia"></string>
+    <string name="plantacion_kentia"></string>
+    <string name="crecimiento_kentia"></string>
+    <string name="riego_kentia"></string>
+    <string name="clima_kentia"></string>
+    <string name="precio_kentia"></string>
+    <string name="donde_comprar_kentia"></string>
+
+  <!-- PLANTAS CON FLORES -->
+    <!-- GLICINIA -->
+    <string name="nombre_glicinia"></string>
+    <string name="descripcion_glicinia"></string>
+    <string name="plantacion_glicinia"></string>
+    <string name="crecimiento_glicinia"></string>
+    <string name="riego_glicinia"></string>
+    <string name="clima_glicinia"></string>
+    <string name="precio_glicinia"></string>
+    <string name="donde_comprar_glicinia"></string>
+
+    <!-- ROSAS NEGRAS -->
+    <string name="nombre_rosas_negras"></string>
+    <string name="descripcion_rosas_negras"></string>
+    <string name="plantacion_rosas_negras"></string>
+    <string name="crecimiento_rosas_negras"></string>
+    <string name="riego_rosas_negras"></string>
+    <string name="clima_rosas_negras"></string>
+    <string name="precio_rosas_negras"></string>
+    <string name="donde_comprar_rosas_negras"></string>
+
+    <!-- ROSAS BLANCAS -->
+    <string name="nombre_rosas_blancas"></string>
+    <string name="descripcion_rosas_blancas"></string>
+    <string name="plantacion_rosas_blancas"></string>
+    <string name="crecimiento_rosas_blancas"></string>
+    <string name="riego_rosas_blancas"></string>
+    <string name="clima_rosas_blancas"></string>
+    <string name="precio_rosas_blancas"></string>
+    <string name="donde_comprar_rosas_blancas"></string>
+
+    <!-- ÁSTER -->
+    <string name="nombre_aster"></string>
+    <string name="descripcion_aster"></string>
+    <string name="plantacion_aster"></string>
+    <string name="crecimiento_aster"></string>
+    <string name="riego_aster"></string>
+    <string name="clima_aster"></string>
+    <string name="precio_aster"></string>
+    <string name="donde_comprar_aster"></string>
+
+    <!-- DALIA -->
+    <string name="nombre_dalia"></string>
+    <string name="descripcion_dalia"></string>
+    <string name="plantacion_dalia"></string>
+    <string name="crecimiento_dalia"></string>
+    <string name="riego_dalia"></string>
+    <string name="clima_dalia"></string>
+    <string name="precio_dalia"></string>
+    <string name="donde_comprar_dalia"></string>
+
+    <!-- ASTILBE -->
+    <string name="nombre_astilbe"></string>
+    <string name="descripcion_astilbe"></string>
+    <string name="plantacion_astilbe"></string>
+    <string name="crecimiento_astilbe"></string>
+    <string name="riego_astilbe"></string>
+    <string name="clima_astilbe"></string>
+    <string name="precio_astilbe"></string>
+    <string name="donde_comprar_astilbe"></string>
+
+    <!-- GAZANIA -->
+    <string name="nombre_gazania"></string>
+    <string name="descripcion_gazania"></string>
+    <string name="plantacion_gazania"></string>
+    <string name="crecimiento_gazania"></string>
+    <string name="riego_gazania"></string>
+    <string name="clima_gazania"></string>
+    <string name="precio_gazania"></string>
+    <string name="donde_comprar_gazania"></string>
+
+    <!-- CORAZÓN SANGRANTE -->
+    <string name="nombre_corazon_sangrante"></string>
+    <string name="descripcion_corazon_sangrante"></string>
+    <string name="plantacion_corazon_sangrante"></string>
+    <string name="crecimiento_corazon_sangrante"></string>
+    <string name="riego_corazon_sangrante"></string>
+    <string name="clima_corazon_sangrante"></string>
+    <string name="precio_corazon_sangrante"></string>
+    <string name="donde_comprar_corazon_sangrante"></string>
+
+    <!-- GERANIOS -->
+    <string name="nombre_geranios"></string>
+    <string name="descripcion_geranios"></string>
+    <string name="plantacion_geranios"></string>
+    <string name="crecimiento_geranios"></string>
+    <string name="riego_geranios"></string>
+    <string name="clima_geranios"></string>
+    <string name="precio_geranios"></string>
+    <string name="donde_comprar_geranios"></string>
+
+    <!-- PETUNIAS -->
+    <string name="nombre_petunias"></string>
+    <string name="descripcion_petunias"></string>
+    <string name="plantacion_petunias"></string>
+    <string name="crecimiento_petunias"></string>
+    <string name="riego_petunias"></string>
+    <string name="clima_petunias"></string>
+    <string name="precio_petunias"></string>
+    <string name="donde_comprar_petunias"></string>
+
+    <!-- LIRIO AZUL -->
+    <string name="nombre_lirio_azul"></string>
+    <string name="descripcion_lirio_azul"></string>
+    <string name="plantacion_lirio_azul"></string>
+    <string name="crecimiento_lirio_azul"></string>
+    <string name="riego_lirio_azul"></string>
+    <string name="clima_lirio_azul"></string>
+    <string name="precio_lirio_azul"></string>
+    <string name="donde_comprar_lirio_azul"></string>
+
+    <!-- CLAVEL -->
+    <string name="nombre_clavel">Clavel (dianthus caryophyllus)</string>
+    <string name="descripcion_clavel"></string>
+    <string name="plantacion_clavel"></string>
+    <string name="crecimiento_clavel"></string>
+    <string name="riego_clavel"></string>
+    <string name="clima_clavel"></string>
+    <string name="precio_clavel"></string>
+    <string name="donde_comprar_clavel"></string>
+
+    <!-- PENSAMIENTO -->
+    <string name="nombre_pensamiento">Pensamiento (viola x wittrockiana)</string>
+    <string name="descripcion_pensamiento"></string>
+    <string name="plantacion_pensamiento"></string>
+    <string name="crecimiento_pensamiento"></string>
+    <string name="riego_pensamiento"></string>
+    <string name="clima_pensamiento"></string>
+    <string name="precio_pensamiento"></string>
+    <string name="donde_comprar_pensamiento"></string>
+
+    <!-- CRISANTEMO -->
+    <string name="nombre_crisantemo">Crisantemo (chrysanthemum morifolium)</string>
+    <string name="descripcion_crisantemo"></string>
+    <string name="plantacion_crisantemo"></string>
+    <string name="crecimiento_crisantemo"></string>
+    <string name="riego_crisantemo"></string>
+    <string name="clima_crisantemo"></string>
+    <string name="precio_crisantemo"></string>
+    <string name="donde_comprar_crisantemo"></string>
+
+    <!-- GIRASOL -->
+    <string name="nombre_girasol"></string>
+    <string name="descripcion_girasol"></string>
+    <string name="plantacion_girasol"></string>
+    <string name="crecimiento_girasol"></string>
+    <string name="riego_girasol"></string>
+    <string name="clima_girasol"></string>
+    <string name="precio_girasol"></string>
+    <string name="donde_comprar_girasol"></string>
+
+    <!-- FLOR DE PORCELANA -->
+    <string name="nombre_flor_de_porcelana"></string>
+    <string name="descripcion_flor_de_porcelana"></string>
+    <string name="plantacion_flor_de_porcelana"></string>
+    <string name="crecimiento_flor_de_porcelana"></string>
+    <string name="riego_flor_de_porcelana"></string>
+    <string name="clima_flor_de_porcelana"></string>
+    <string name="precio_flor_de_porcelana"></string>
+    <string name="donde_comprar_flor_de_porcelana"></string>
+
+    <!-- PASIFLORA -->
+    <string name="nombre_pasiflora"></string>
+    <string name="descripcion_pasiflora"></string>
+    <string name="plantacion_pasiflora"></string>
+    <string name="crecimiento_pasiflora"></string>
+    <string name="riego_pasiflora"></string>
+    <string name="clima_pasiflora"></string>
+    <string name="precio_pasiflora"></string>
+    <string name="donde_comprar_pasiflora"></string>
+
+    <!-- ZINNIA -->
+    <string name="nombre_zinnia"></string>
+    <string name="descripcion_zinnia"></string>
+    <string name="plantacion_zinnia"></string>
+    <string name="crecimiento_zinnia"></string>
+    <string name="riego_zinnia"></string>
+    <string name="clima_zinnia"></string>
+    <string name="precio_zinnia"></string>
+    <string name="donde_comprar_zinnia"></string>
+
+    <!-- AZUCENA -->
+    <string name="nombre_azucena"></string>
+    <string name="descripcion_azucena"></string>
+    <string name="plantacion_azucena"></string>
+    <string name="crecimiento_azucena"></string>
+    <string name="riego_azucena"></string>
+    <string name="clima_azucena"></string>
+    <string name="precio_azucena"></string>
+    <string name="donde_comprar_azucena"></string>
+
+    <!-- FLOR DE LOTO -->
+    <string name="nombre_flor_de_loto"></string>
+    <string name="descripcion_flor_de_loto"></string>
+    <string name="plantacion_flor_de_loto"></string>
+    <string name="crecimiento_flor_de_loto"></string>
+    <string name="riego_flor_de_loto"></string>
+    <string name="clima_flor_de_loto"></string>
+    <string name="precio_flor_de_loto"></string>
+    <string name="donde_comprar_flor_de_loto"></string>
+
+  <!-- ARBUSTOS -->
+    <!-- GALÁN DE NOCHE -->
+    <string name="nombre_galan_de_noche"></string>
+    <string name="descripcion_galan_de_noche"></string>
+    <string name="plantacion_galan_de_noche"></string>
+    <string name="crecimiento_galan_de_noche"></string>
+    <string name="riego_galan_de_noche"></string>
+    <string name="clima_galan_de_noche"></string>
+    <string name="precio_galan_de_noche"></string>
+    <string name="donde_comprar_galan_de_noche"></string>
+
+    <!-- PHOTINIA -->
+    <string name="nombre_photinia"></string>
+    <string name="descripcion_photinia"></string>
+    <string name="plantacion_photinia"></string>
+    <string name="crecimiento_photinia"></string>
+    <string name="riego_photinia"></string>
+    <string name="clima_photinia"></string>
+    <string name="precio_photinia"></string>
+    <string name="donde_comprar_photinia"></string>
+
+    <!-- GALÁN DE NOCHE -->
+    <string name="nombre_galan_de_noche"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- GALÁN DE NOCHE -->
+    <string name="nombre_galan_de_noche"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- GALÁN DE NOCHE -->
+    <string name="nombre_galan_de_noche"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- GALÁN DE NOCHE -->
+    <string name="nombre_galan_de_noche"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- GALÁN DE NOCHE -->
+    <string name="nombre_galan_de_noche"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- GALÁN DE NOCHE -->
+    <string name="nombre_galan_de_noche"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- GALÁN DE NOCHE -->
+    <string name="nombre_galan_de_noche"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- GALÁN DE NOCHE -->
+    <string name="nombre_galan_de_noche"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- GALÁN DE NOCHE -->
+    <string name="nombre_galan_de_noche"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- GALÁN DE NOCHE -->
+    <string name="nombre_galan_de_noche"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- GALÁN DE NOCHE -->
+    <string name="nombre_galan_de_noche"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- GALÁN DE NOCHE -->
+    <string name="nombre_galan_de_noche"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+
+
+  <!-- ÁRBOLES -->
+    <!-- ARCE JAPONÉS -->
+    <string name="nombre_arce_japones"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- ARCE JAPONÉS -->
+    <string name="nombre_arce_japones"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- ARCE JAPONÉS -->
+    <string name="nombre_arce_japones"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- ARCE JAPONÉS -->
+    <string name="nombre_arce_japones"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- ARCE JAPONÉS -->
+    <string name="nombre_arce_japones"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- ARCE JAPONÉS -->
+    <string name="nombre_arce_japones"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- ARCE JAPONÉS -->
+    <string name="nombre_arce_japones"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- ARCE JAPONÉS -->
+    <string name="nombre_arce_japones"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- ARCE JAPONÉS -->
+    <string name="nombre_arce_japones"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- ARCE JAPONÉS -->
+    <string name="nombre_arce_japones"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- ARCE JAPONÉS -->
+    <string name="nombre_arce_japones"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- ARCE JAPONÉS -->
+    <string name="nombre_arce_japones"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- ARCE JAPONÉS -->
+    <string name="nombre_arce_japones"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
+
+    <!-- ARCE JAPONÉS -->
+    <string name="nombre_arce_japones"></string>
+    <string name="descripcion_"></string>
+    <string name="plantacion_"></string>
+    <string name="crecimiento_"></string>
+    <string name="riego_"></string>
+    <string name="clima_"></string>
+    <string name="precio_"></string>
+    <string name="donde_comprar_"></string>
 
 
 </resources>
