@@ -62,9 +62,9 @@
     <string name="donde_comprar_helecho">Tienda Online: Etsy.</string>
 
     <!-- HIEDRA -->
-    <string name="nombre_hiedra"></string>
-    <string name="descripcion_hiedra"></string>
-    <string name="plantacion_hiedra"></string>
+    <string name="nombre_hiedra">Hiedra</string>
+    <string name="descripcion_hiedra">Son plantas que no requieren obligatoriamente de luz natural para sobrevivir. Esto quiere decir que fácilmente puedes coger una maceta, plantar tu hiedra y tenerla en el interior de tu casa sin la preocupación de que esta muera.</string>
+    <string name="plantacion_hiedra">El momento ideal para plantarla en el jardín será a comienzos de la primavera.</string>
     <string name="crecimiento_hiedra"></string>
     <string name="riego_hiedra"></string>
     <string name="clima_hiedra"></string>
@@ -373,268 +373,269 @@
     <string name="precio_photinia"></string>
     <string name="donde_comprar_photinia"></string>
 
-    <!-- GALÁN DE NOCHE -->
-    <string name="nombre_galan_de_noche"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- ACEBO -->
+    <string name="nombre_acebo">Acebo (ilex Aquifolium)</string>
+    <string name="descripcion_acebo"></string>
+    <string name="plantacion_acebo"></string>
+    <string name="crecimiento_acebo"></string>
+    <string name="riego_acebo"></string>
+    <string name="clima_acebo"></string>
+    <string name="precio_acebo"></string>
+    <string name="donde_comprar_acebo"></string>
 
-    <!-- GALÁN DE NOCHE -->
-    <string name="nombre_galan_de_noche"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- ANDRÓMEDA JAPONESA -->
+    <string name="nombre_andromeda_japonesa">Andrómeda Japonesa (Pieris Japonica)</string>
+    <string name="descripcion_andromeda_japonesa"></string>
+    <string name="plantacion_andromeda_japonesa"></string>
+    <string name="crecimiento_andromeda_japonesa"></string>
+    <string name="riego_andromeda_japonesa"></string>
+    <string name="clima_andromeda_japonesa"></string>
+    <string name="precio_andromeda_japonesa"></string>
+    <string name="donde_comprar_andromeda_japonesa"></string>
 
-    <!-- GALÁN DE NOCHE -->
-    <string name="nombre_galan_de_noche"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- BERBERIS THUNBERGII GREEN CARPET -->
+    <string name="nombre_berberis_thunbergii">Berberis Thunbergii Green Carpet</string>
+    <string name="descripcion_berberis_thunbergii"></string>
+    <string name="plantacion_berberis_thunbergii"></string>
+    <string name="crecimiento_berberis_thunbergii"></string>
+    <string name="riego_berberis_thunbergii"></string>
+    <string name="clima_berberis_thunbergii"></string>
+    <string name="precio_berberis_thunbergii"></string>
+    <string name="donde_comprar_berberis_thunbergii"></string>
 
-    <!-- GALÁN DE NOCHE -->
-    <string name="nombre_galan_de_noche"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- BOG -->
+    <string name="nombre_bog">Bog (Buxus Microphilla Faulkner)</string>
+    <string name="descripcion_bog"></string>
+    <string name="plantacion_bog"></string>
+    <string name="crecimiento_bog"></string>
+    <string name="riego_bog"></string>
+    <string name="clima_bog"></string>
+    <string name="precio_bog"></string>
+    <string name="donde_comprar_bog"></string>
 
-    <!-- GALÁN DE NOCHE -->
-    <string name="nombre_galan_de_noche"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- BOLA DE NIEVE -->
+    <string name="nombre_bola_de_nieve">Bola De Nieve (Spiraea Japonica Snowmound)</string>
+    <string name="descripcion_bola_de_nieve"></string>
+    <string name="plantacion_bola_de_nieve"></string>
+    <string name="crecimiento_bola_de_nieve"></string>
+    <string name="riego_bola_de_nieve"></string>
+    <string name="clima_bola_de_nieve"></string>
+    <string name="precio_bola_de_nieve"></string>
+    <string name="donde_comprar_bola_de_nieve"></string>
 
-    <!-- GALÁN DE NOCHE -->
-    <string name="nombre_galan_de_noche"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- CEANOTHUS PUGET BLUE -->
+    <string name="nombre_ceanothus_puget_blue">Ceanothus Puget Blue</string>
+    <string name="descripcion_ceanothus_puget_blue"></string>
+    <string name="plantacion_ceanothus_puget_blue"></string>
+    <string name="crecimiento_ceanothus_puget_blue"></string>
+    <string name="riego_ceanothus_puget_blue"></string>
+    <string name="clima_ceanothus_puget_blue"></string>
+    <string name="precio_ceanothus_puget_blue"></string>
+    <string name="donde_comprar_ceanothus_puget_blue"></string>
 
-    <!-- GALÁN DE NOCHE -->
-    <string name="nombre_galan_de_noche"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- FORYSTHIA -->
+    <string name="nombre_forysthia">Forsythia</string>
+    <string name="descripcion_forysthia"></string>
+    <string name="plantacion_forysthia"></string>
+    <string name="crecimiento_forysthia"></string>
+    <string name="riego_forysthia"></string>
+    <string name="clima_forysthia"></string>
+    <string name="precio_forysthia"></string>
+    <string name="donde_comprar_forysthia"></string>
 
-    <!-- GALÁN DE NOCHE -->
-    <string name="nombre_galan_de_noche"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- HEBE VERONICA -->
+    <string name="nombre_hebe_veronica">Hebe Veronica</string>
+    <string name="descripcion_hebe_veronica"></string>
+    <string name="plantacion_hebe_veronica"></string>
+    <string name="crecimiento_hebe_veronica"></string>
+    <string name="riego_hebe_veronica"></string>
+    <string name="clima_hebe_veronica"></string>
+    <string name="precio_hebe_veronica"></string>
+    <string name="donde_comprar_hebe_veronica"></string>
 
-    <!-- GALÁN DE NOCHE -->
-    <string name="nombre_galan_de_noche"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- ALOE VERA -->
+    <string name="nombre_aloe_vera">Aloe Vera</string>
+    <string name="descripcion_aloe_vera"></string>
+    <string name="plantacion_aloe_vera"></string>
+    <string name="crecimiento_aloe_vera"></string>
+    <string name="riego_aloe_vera"></string>
+    <string name="clima_aloe_vera"></string>
+    <string name="precio_aloe_vera"></string>
+    <string name="donde_comprar_aloe_vera"></string>
 
-    <!-- GALÁN DE NOCHE -->
-    <string name="nombre_galan_de_noche"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- VIBURNO -->
+    <string name="nombre_viburno"> Viburno(Viburnum Lucidum)</string>
+    <string name="descripcion_viburno"></string>
+    <string name="plantacion_viburno"></string>
+    <string name="crecimiento_viburno"></string>
+    <string name="riego_viburno"></string>
+    <string name="clima_viburno"></string>
+    <string name="precio_viburno"></string>
+    <string name="donde_comprar_viburno"></string>
 
-    <!-- GALÁN DE NOCHE -->
-    <string name="nombre_galan_de_noche"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- BUGANVILLA -->
+    <string name="nombre_buganvilla">Buganvilla</string>
+    <string name="descripcion_buganvilla"></string>
+    <string name="plantacion_buganvilla"></string>
+    <string name="crecimiento_buganvilla"></string>
+    <string name="riego_buganvilla"></string>
+    <string name="clima_buganvilla"></string>
+    <string name="precio_buganvilla"></string>
+    <string name="donde_comprar_buganvilla"></string>
 
-    <!-- GALÁN DE NOCHE -->
-    <string name="nombre_galan_de_noche"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- ARALIA DE JAPON -->
+    <string name="nombre_aralia_de_japon">Aralia de Japón</string>
+    <string name="descripcion_aralia_de_japon"></string>
+    <string name="plantacion_aralia_de_japon"></string>
+    <string name="crecimiento_aralia_de_japon"></string>
+    <string name="riego_aralia_de_japon"></string>
+    <string name="clima_aralia_de_japon"></string>
+    <string name="precio_aralia_de_japon"></string>
+    <string name="donde_comprar_aralia_de_japon"></string>
 
 
 
   <!-- ÁRBOLES -->
     <!-- ARCE JAPONÉS -->
-    <string name="nombre_arce_japones"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <string name="nombre_arce_japones">Arce Japonés</string>
+    <string name="descripcion_arce_japones"></string>
+    <string name="plantacion_arce_japones"></string>
+    <string name="crecimiento_arce_japones"></string>
+    <string name="riego_arce_japones"></string>
+    <string name="clima_arce_japones"></string>
+    <string name="precio_arce_japones"></string>
+    <string name="donde_comprar_arce_japones"></string>
 
-    <!-- ARCE JAPONÉS -->
-    <string name="nombre_arce_japones"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- ALTEA ROSA DE SIRIA -->
+    <string name="nombre_altea_rosa_de_siria">Altea Rosa de Siria</string>
+    <string name="descripcion_altea_rosa_de_siria"></string>
+    <string name="plantacion_altea_rosa_de_siria"></string>
+    <string name="crecimiento_altea_rosa_de_siria"></string>
+    <string name="riego_altea_rosa_de_siria"></string>
+    <string name="clima_altea_rosa_de_siria"></string>
+    <string name="precio_altea_rosa_de_siria"></string>
+    <string name="donde_comprar_altea_rosa_de_siria"></string>
 
-    <!-- ARCE JAPONÉS -->
-    <string name="nombre_arce_japones"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
 
-    <!-- ARCE JAPONÉS -->
-    <string name="nombre_arce_japones"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- ÁRBOL DE JÚPITER -->
+    <string name="nombre_arbol_de_jupiter">Árbol de Júpiter</string>
+    <string name="descripcion_arbol_de_jupiter"></string>
+    <string name="plantacion_arbol_de_jupiter"></string>
+    <string name="crecimiento_arbol_de_jupiter"></string>
+    <string name="riego_arbol_de_jupiter"></string>
+    <string name="clima_arbol_de_jupiter"></string>
+    <string name="precio_arbol_de_jupiter"></string>
+    <string name="donde_comprar_arbol_de_jupiter"></string>
 
-    <!-- ARCE JAPONÉS -->
-    <string name="nombre_arce_japones"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- SYRINGA -->
+    <string name="nombre_syringa">Syringa</string>
+    <string name="descripcion_syringa"></string>
+    <string name="plantacion_syringa"></string>
+    <string name="crecimiento_syringa"></string>
+    <string name="riego_syringa"></string>
+    <string name="clima_syringa"></string>
+    <string name="precio_syringa"></string>
+    <string name="donde_comprar_syringa"></string>
 
-    <!-- ARCE JAPONÉS -->
-    <string name="nombre_arce_japones"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- LAGERSTROEMIA INDICA -->
+    <string name="nombre_lagarstroemia_indica">Lagerstroemia Indica</string>
+    <string name="descripcion_lagarstroemia_indica"></string>
+    <string name="plantacion_lagarstroemia_indica"></string>
+    <string name="crecimiento_lagarstroemia_indica"></string>
+    <string name="riego_lagarstroemia_indica"></string>
+    <string name="clima_lagarstroemia_indica"></string>
+    <string name="precio_lagarstroemia_indica"></string>
+    <string name="donde_comprar_lagarstroemia_indica"></string>
 
-    <!-- ARCE JAPONÉS -->
-    <string name="nombre_arce_japones"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- RHUS TYPHINA -->
+    <string name="nombre_rhus_typhina">Rhus Typhina</string>
+    <string name="descripcion_rhus_typhina"></string>
+    <string name="plantacion_rhus_typhina"></string>
+    <string name="crecimiento_rhus_typhina"></string>
+    <string name="riego_rhus_typhina"></string>
+    <string name="clima_rhus_typhina"></string>
+    <string name="precio_rhus_typhina"></string>
+    <string name="donde_comprar_rhus_typhina"></string>
 
-    <!-- ARCE JAPONÉS -->
-    <string name="nombre_arce_japones"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- PLUMERIA RUBRA -->
+    <string name="nombre_plumeria_rubra">Plumeria Rubra</string>
+    <string name="descripcion_plumeria_rubra"></string>
+    <string name="plantacion_plumeria_rubra"></string>
+    <string name="crecimiento_plumeria_rubra"></string>
+    <string name="riego_plumeria_rubra"></string>
+    <string name="clima_plumeria_rubra"></string>
+    <string name="precio_plumeria_rubra"></string>
+    <string name="donde_comprar_plumeria_rubra"></string>
 
-    <!-- ARCE JAPONÉS -->
-    <string name="nombre_arce_japones"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- TECOMA STANS -->
+    <string name="nombre_tecoma_stans">Tecoma Stans</string>
+    <string name="descripcion_tecoma_stans"></string>
+    <string name="plantacion_tecoma_stans"></string>
+    <string name="crecimiento_tecoma_stans"></string>
+    <string name="riego_tecoma_stans"></string>
+    <string name="clima_tecoma_stans"></string>
+    <string name="precio_tecoma_stans"></string>
+    <string name="donde_comprar_tecoma_stans"></string>
 
-    <!-- ARCE JAPONÉS -->
-    <string name="nombre_arce_japones"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- RUBINA HISPIDA -->
+    <string name="nombre_rubina_hispida">Robinia Hispida</string>
+    <string name="descripcion_rubina_hispida"></string>
+    <string name="plantacion_rubina_hispida"></string>
+    <string name="crecimiento_rubina_hispida"></string>
+    <string name="riego_rubina_hispida"></string>
+    <string name="clima_rubina_hispida"></string>
+    <string name="precio_rubina_hispida"></string>
+    <string name="donde_comprar_rubina_hispida"></string>
 
-    <!-- ARCE JAPONÉS -->
-    <string name="nombre_arce_japones"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- ACACIA BAILEYANA -->
+    <string name="nombre_acacia_baileyana">Acacia Baileyana</string>
+    <string name="descripcion_acacia_baileyana"></string>
+    <string name="plantacion_acacia_baileyana"></string>
+    <string name="crecimiento_acacia_baileyana"></string>
+    <string name="riego_acacia_baileyana"></string>
+    <string name="clima_acacia_baileyana"></string>
+    <string name="precio_acacia_baileyana"></string>
+    <string name="donde_comprar_acacia_baileyana"></string>
 
-    <!-- ARCE JAPONÉS -->
-    <string name="nombre_arce_japones"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- PRUNUS SERRULATA -->
+    <string name="nombre_prunus_serrulata">Prunus Serrulata</string>
+    <string name="descripcion_prunus_serrulata"></string>
+    <string name="plantacion_prunus_serrulata"></string>
+    <string name="crecimiento_prunus_serrulata"></string>
+    <string name="riego_prunus_serrulata"></string>
+    <string name="clima_prunus_serrulata"></string>
+    <string name="precio_prunus_serrulata"></string>
+    <string name="donde_comprar_prunus_serrulata"></string>
 
-    <!-- ARCE JAPONÉS -->
-    <string name="nombre_arce_japones"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- BAUHINIA VARIEGATA -->
+    <string name="nombre_bauhinia_variegata">Bauhinia Variegata</string>
+    <string name="descripcion_bauhinia_variegata"></string>
+    <string name="plantacion_bauhinia_variegata"></string>
+    <string name="crecimiento_bauhinia_variegata"></string>
+    <string name="riego_bauhinia_variegata"></string>
+    <string name="clima_bauhinia_variegata"></string>
+    <string name="precio_bauhinia_variegata"></string>
+    <string name="donde_comprar_bauhinia_variegata"></string>
 
-    <!-- ARCE JAPONÉS -->
-    <string name="nombre_arce_japones"></string>
-    <string name="descripcion_"></string>
-    <string name="plantacion_"></string>
-    <string name="crecimiento_"></string>
-    <string name="riego_"></string>
-    <string name="clima_"></string>
-    <string name="precio_"></string>
-    <string name="donde_comprar_"></string>
+    <!-- PINO -->
+    <string name="nombre_pino">Pino</string>
+    <string name="descripcion_pino"></string>
+    <string name="plantacion_pino"></string>
+    <string name="crecimiento_pino"></string>
+    <string name="riego_pino"></string>
+    <string name="clima_pino"></string>
+    <string name="precio_pino"></string>
+    <string name="donde_comprar_pino"></string>
+
+    <!-- LAUREL -->
+    <string name="nombre_laurel">Laurel</string>
+    <string name="descripcion_laurel"></string>
+    <string name="plantacion_laurel"></string>
+    <string name="crecimiento_laurel"></string>
+    <string name="riego_laurel"></string>
+    <string name="clima_laurel"></string>
+    <string name="precio_laurel"></string>
+    <string name="donde_comprar_laurel"></string>
 
 
 </resources>
