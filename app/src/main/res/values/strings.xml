@@ -65,195 +65,195 @@
     <string name="nombre_hiedra">Hiedra</string>
     <string name="descripcion_hiedra">Son plantas que no requieren obligatoriamente de luz natural para sobrevivir. Esto quiere decir que fácilmente puedes coger una maceta, plantar tu hiedra y tenerla en el interior de tu casa sin la preocupación de que esta muera.</string>
     <string name="plantacion_hiedra">El momento ideal para plantarla en el jardín será a comienzos de la primavera.</string>
-    <string name="crecimiento_hiedra"></string>
-    <string name="riego_hiedra"></string>
-    <string name="clima_hiedra"></string>
-    <string name="precio_hiedra"></string>
-    <string name="donde_comprar_hiedra"></string>
+    <string name="crecimiento_hiedra">La hiedra es una trepadora de hoja perenne que crece durante prácticamente todo el año.</string>
+    <string name="riego_hiedra">El riego tiene que ser de manera moderada, siendo algo que tiene que hacerse justo cuando el sustrato esté completamente seco.</string>
+    <string name="clima_hiedra">Temperatura media, aunque puede soportar temperaturas bajas.</string>
+    <string name="precio_hiedra">Planta joven unos 10€.</string>
+    <string name="donde_comprar_hiedra">Tienda Online: Alemany Viveros, Ebay.</string>
 
     <!-- BAMBÚ -->
-    <string name="nombre_bambu"></string>
-    <string name="descripcion_bambu"></string>
-    <string name="plantacion_bambu"></string>
-    <string name="crecimiento_bambu"></string>
-    <string name="riego_bambu"></string>
-    <string name="clima_bambu"></string>
-    <string name="precio_bambu"></string>
-    <string name="donde_comprar_bambu"></string>
+    <string name="nombre_bambu">Bambú</string>
+    <string name="descripcion_bambu">Es conocida como “la planta de los mil usos”, de él se puede obtener, alimento, ropa, medicinas, material de construcción y sobre todo para decoraciones.</string>
+    <string name="plantacion_bambu">Lo más recomendable es plantarlo a lo largo de la Primavera, pero si la zona es muy calurosa, puede plantarse en Otoño.</string>
+    <string name="crecimiento_bambu">El bambú tarda aproximadamente 5 años para poder ser cultivado, pero llega a una altura de 12 a 15 m.</string>
+    <string name="riego_bambu">En climas templados como primavera y otoño, lo más recomendable es regarlo 2 o 3 veces por semana, ya que necesita humedad, y en climas cálidos regarlo de 3 a 4 veces por semana, hay que tener cuidado de no ahogar las raices.</string>
+    <string name="clima_bambu">Lo más recomendable es una temperatura intermedia, ni muy caluroso ni muy frio.</string>
+    <string name="precio_bambu">50 Semillas de bambú unos 7 u 8€. Planta de bambú unos 30€.</string>
+    <string name="donde_comprar_bambu">Tienda Online: Amazon, Ebay</string>
 
     <!-- AGAPANTO -->
-    <string name="nombre_agapanto"></string>
-    <string name="descripcion_agapanto"></string>
-    <string name="plantacion_agapanto"></string>
-    <string name="crecimiento_agapanto"></string>
-    <string name="riego_agapanto"></string>
-    <string name="clima_agapanto"></string>
-    <string name="precio_agapanto"></string>
-    <string name="donde_comprar_agapanto"></string>
+    <string name="nombre_agapanto">Agapanto</string>
+    <string name="descripcion_agapanto">Se les llama la flor del amor, son plantas adaptables y de fácil cultivo. Su época de floración es a finales de primavera y verano</string>
+    <string name="plantacion_agapanto">El mejor momento para plantarla es en primavera.</string>
+    <string name="crecimiento_agapanto">Una vez plantado suele tardar de dos a tres años en florecer.</string>
+    <string name="riego_agapanto">Es una planta que necesita bastante agua, en los climas cálidos regarla con días intercalados, y en clima frío cada dos o tres días.</string>
+    <string name="clima_agapanto">Es una planta bastante resistente, pero lo mejor es que el clima no sea muy húmedo.</string>
+    <string name="precio_agapanto">Aproximadamente 10€ una planta joven en tienda online.</string>
+    <string name="donde_comprar_agapanto">Tienda Online; The Original Garden, Planflor-es</string>
 
     <!-- LAMIUM MACULATUM MIX -->
-    <string name="nombre_lamium_maculatum_mix"></string>
-    <string name="descripcion_lmm"></string>
-    <string name="plantacion_lmm"></string>
-    <string name="crecimiento_lmm"></string>
-    <string name="riego_lmm"></string>
-    <string name="clima_lmm"></string>
-    <string name="precio_lmm"></string>
-    <string name="donde_comprar_lmm"></string>
+    <string name="nombre_lamium_maculatum_mix">Lamium Maculatum Mix</string>
+    <string name="descripcion_lamium_maculatum_mix">También conocido como falsa ortiga, es una planta herbácea anual que posee unas pequeñas hojas pelosas</string>
+    <string name="plantacion_lamium_maculatum_mix"> Lo mejor es plantarla en primavera.</string>
+    <string name="crecimiento_lamium_maculatum_mix">Su crecimiento es muy rápido</string>
+    <string name="riego_lamium_maculatum_mix">Cuando más riego necesita es en verano ya que el clima es bastante cálido, y se le debe de regar unas 3 o 4 veces por semana</string>
+    <string name="clima_lamium_maculatum_mix">Ni muy cálido, ni muy frío, es una planta resistente.</string>
+    <string name="precio_lamium_maculatum_mix">Una planta puede costar unos 10€ por tienda online.</string>
+    <string name="donde_comprar_lamium_maculatum_mix">Tienda Online: Fronda.</string>
 
     <!-- PEPEROMIA -->
-    <string name="nombre_peperomia"></string>
-    <string name="descripcion_peperomia"></string>
-    <string name="plantacion_peperomia"></string>
-    <string name="crecimiento_peperomia"></string>
-    <string name="riego_peperomia"></string>
-    <string name="clima_peperomia"></string>
-    <string name="precio_peperomia"></string>
-    <string name="donde_comprar_peperomia"></string>
+    <string name="nombre_peperomia">Peperomia</string>
+    <string name="descripcion_peperomia">Es uno de los dos grandes géneros botánicos de la familia Piperaceae, con más de 1160 especies aceptadas.</string>
+    <string name="plantacion_peperomia">La mejor época para su plantación es primavera.</string>
+    <string name="crecimiento_peperomia">Suele llegar a medir unos 30 cm de alto, y tardá aproximadamente 1 año.</string>
+    <string name="riego_peperomia">No necesitan mucho riego, aproximadamente 1 vez por semana.</string>
+    <string name="clima_peperomia">Lo mejor es un clima cálido pero no mucho, por que esta planta es muy sensible al frío.</string>
+    <string name="precio_peperomia"> Una planta joven puede costar unos 8 o 10€ por tienda online.</string>
+    <string name="donde_comprar_peperomia">Tienda online: Mini planta, Natural love</string>
 
     <!-- ALOCASIA -->
-    <string name="nombre_alocasia"></string>
-    <string name="descripcion_alocasia"></string>
-    <string name="plantacion_alocasia"></string>
-    <string name="crecimiento_alocasia"></string>
-    <string name="riego_alocasia"></string>
-    <string name="clima_alocasia"></string>
-    <string name="precio_alocasia"></string>
-    <string name="donde_comprar_alocasia"></string>
+    <string name="nombre_alocasia">Alocasia</string>
+    <string name="descripcion_alocasia">También conocida como “Oreja de Elefante”. Es una planta de origen tropical. Y son plantas siempre verdes, con su debido riego no debería de secarse.</string>
+    <string name="plantacion_alocasia">Lo más recomendable para esta planta es trasplantar antes de la primavera.</string>
+    <string name="crecimiento_alocasia">Si es plantada en suelo y en su ambiente puede alcanzar los 5 m de altura.</string>
+    <string name="riego_alocasia">El riego debe ser constante ya que es una planta que necesita humedad.</string>
+    <string name="clima_alocasia">Lo ideal para esta planta es humedad.</string>
+    <string name="precio_alocasia">En tienda online puede costar unos 10 € la planta joven.</string>
+    <string name="donde_comprar_alocasia">Tienda online: Mini Planta.</string>
 
     <!-- CÓLEO -->
-    <string name="nombre_coleo"></string>
-    <string name="descripcion_coleo"></string>
-    <string name="plantacion_coleo"></string>
-    <string name="crecimiento_coleo"></string>
-    <string name="riego_coleo"></string>
-    <string name="clima_coleo"></string>
-    <string name="precio_coleo"></string>
-    <string name="donde_comprar_coleo"></string>
+    <string name="nombre_coleo">Cóleo</string>
+    <string name="descripcion_coleo">Los Cóleos son plantas perennes originarias de África y Asia tropical.</string>
+    <string name="plantacion_coleo">Se planta durante la primavera, el verano y el otoño, estas plantas se suelen tener en el exterior.</string>
+    <string name="crecimiento_coleo">Suele llegar a crecer hasta 50 cm, pero en su entorno puede llegar hasta el metro.</string>
+    <string name="riego_coleo">No son muy exigentes con el agua.</string>
+    <string name="clima_coleo">Temperatura media, ni muy cálido, ni muy frío.</string>
+    <string name="precio_coleo">En tienda online puede costar de 5 a 10€ la planta joven.</string>
+    <string name="donde_comprar_coleo">Tienda online: GermiGarden, PradoPlant, VerdeCora.</string>
 
     <!-- FITONIA -->
-    <string name="nombre_fitonia"></string>
-    <string name="descripcion_fitonia"></string>
-    <string name="plantacion_fitonia"></string>
-    <string name="crecimiento_fitonia"></string>
-    <string name="riego_fitonia"></string>
-    <string name="clima_fitonia"></string>
-    <string name="precio_fitonia"></string>
-    <string name="donde_comprar_fitonia"></string>
+    <string name="nombre_fitonia">Fitonia</string>
+    <string name="descripcion_fitonia">Es un género con dos especies perteneciente a la familia Acanthaceae. Es nativo de las selvas tropicales de Sudamérica.</string>
+    <string name="plantacion_fitonia">Se trasplanta en primavera cuando las raíces hayan ocupado todo el espacio a su disposición.</string>
+    <string name="crecimiento_fitonia">Es una planta que no crece mucho, y llega a medir unos 15 a 20 cm.</string>
+    <string name="riego_fitonia">En una época cálida regarla 3 veces por semana, y en época fría 1 vez por semana será suficiente.</string>
+    <string name="clima_fitonia">Necesita una temperatura más bien cálida, pero no mucho, además de que es una planta de interior.</string>
+    <string name="precio_fitonia">En tienda online puede costar de 5 a 10€ la planta joven.</string>
+    <string name="donde_comprar_fitonia">Tienda online: GermiGarden, Fronda.</string>
 
     <!-- KENTIA -->
-    <string name="nombre_kentia"></string>
-    <string name="descripcion_kentia"></string>
-    <string name="plantacion_kentia"></string>
-    <string name="crecimiento_kentia"></string>
-    <string name="riego_kentia"></string>
-    <string name="clima_kentia"></string>
-    <string name="precio_kentia"></string>
-    <string name="donde_comprar_kentia"></string>
+    <string name="nombre_kentia">Kentia</string>
+    <string name="descripcion_kentia">Planta que destaca por su facilidad de adaptarse tanto a interiores como a exteriores, lo que motiva que se pueda usar en ambos espacios sin ningún problema.</string>
+    <string name="plantacion_kentia">La mejor época para plantar la Kentia es en primavera.</string>
+    <string name="crecimiento_kentia">Puede llegar a medir 1,5 metros pero tardando unos 10 años para conseguirlo.</string>
+    <string name="riego_kentia">Lo ideal es regar un par de veces a la semana en verano y una o 2 veces al mes durante el invierno.</string>
+    <string name="clima_kentia">Es una planta muy resistente, es capaz de soportar tanto clima cálido como frío.</string>
+    <string name="precio_kentia">En tienda online puede costar de 25 a 60€ la planta joven. Unas semillas de esta planta pueden costar unos 15€.</string>
+    <string name="donde_comprar_kentia">Tienda online: Jardinería Ourense, Groupon ES, Vivarium, Amazon.</string>
 
   <!-- PLANTAS CON FLORES -->
     <!-- GLICINIA -->
-    <string name="nombre_glicinia"></string>
-    <string name="descripcion_glicinia"></string>
-    <string name="plantacion_glicinia"></string>
-    <string name="crecimiento_glicinia"></string>
-    <string name="riego_glicinia"></string>
-    <string name="clima_glicinia"></string>
-    <string name="precio_glicinia"></string>
-    <string name="donde_comprar_glicinia"></string>
+    <string name="nombre_glicinia">Glicinia</string>
+    <string name="descripcion_glicinia">Es una planta trepadora, que libera un aroma que huele especialmente bien. Y tiene una hermosa floración con unos colores muy llamativos.</string>
+    <string name="plantacion_glicinia">Los mejores meses para plantar esta planta son en Marzo y Octubre, pero en un suelo fértil y muy drenado.</string>
+    <string name="crecimiento_glicinia">Si nace desde la semilla, esta tardará en florecer unos 8 o 10 años. De lo contrario tardará unos 5 años.</string>
+    <string name="riego_glicinia">Se deberá regar regularmente en verano, cada 5 días aproximados, pero en el caso de que la planta de maceta, habrá que regarla todos los días un poco. En invierno regar más de vez en cuando, cada 10 o 15 días..</string>
+    <string name="clima_glicinia">Puede soportar tanto calor como frío, pero con mucho calor puede ser que sufra esta planta.</string>
+    <string name="precio_glicinia">En Tienda online unas 20 semillas de esta planta entre 7 y 10€.</string>
+    <string name="donde_comprar_glicinia">Tienda online: Amazon, Ebay.</string>
 
     <!-- ROSAS NEGRAS -->
-    <string name="nombre_rosas_negras"></string>
-    <string name="descripcion_rosas_negras"></string>
-    <string name="plantacion_rosas_negras"></string>
-    <string name="crecimiento_rosas_negras"></string>
-    <string name="riego_rosas_negras"></string>
-    <string name="clima_rosas_negras"></string>
-    <string name="precio_rosas_negras"></string>
-    <string name="donde_comprar_rosas_negras"></string>
+    <string name="nombre_rosas_negras">Rosas Negras</string>
+    <string name="descripcion_rosas_negras">Las rosas negras son símbolos que aparecen en la ficción con muchos significados y títulos diferentes como rosa de terciopelo negro, magia negra, barkarole, belleza negra, magnífica Toscana, jade negro y bacará.</string>
+    <string name="plantacion_rosas_negras">Se debe plantar en primavera antes de que se reanude su crecimiento.</string>
+    <string name="crecimiento_rosas_negras">Una planta de rosa negra puede tomar hasta 2 a 5 años para alcanzar la madurez completa.</string>
+    <string name="riego_rosas_negras">A lo largo del año regarlo cada 3 días, a excepción de verano, que deberá ser cada 2 días y si el clima es muy cálido, regarla diariamente.</string>
+    <string name="clima_rosas_negras">Es de climas fríos pero no muy fríos.</string>
+    <string name="precio_rosas_negras">En tienda online puede llegar a costar 10€, 30 semillas de estas plantas.</string>
+    <string name="donde_comprar_rosas_negras">Tienda online: Amazon, MySeedParadise, Etsy.</string>
 
     <!-- ROSAS BLANCAS -->
-    <string name="nombre_rosas_blancas"></string>
-    <string name="descripcion_rosas_blancas"></string>
-    <string name="plantacion_rosas_blancas"></string>
-    <string name="crecimiento_rosas_blancas"></string>
-    <string name="riego_rosas_blancas"></string>
-    <string name="clima_rosas_blancas"></string>
-    <string name="precio_rosas_blancas"></string>
-    <string name="donde_comprar_rosas_blancas"></string>
+    <string name="nombre_rosas_blancas">Rosas Blancas</string>
+    <string name="descripcion_rosas_blancas">Las rosas son las flores más románticas y sensuales que existen. Son una gran muestra de amor y efecto y, por ello, los ramos de rosas son de los más regalados entre las parejas.</string>
+    <string name="plantacion_rosas_blancas">Las mejores estaciones para plantar estas plantas, son en primavera o en otoño.</string>
+    <string name="crecimiento_rosas_blancas">Después de la plantación (normalmente en marzo en climas mediterráneos) y durante 4-5 semanas, la planta crece naturalmente.</string>
+    <string name="riego_rosas_blancas">Las rosas blancas necesitan al menos 18 ml de agua por planta cada semana esto en época de primavera.</string>
+    <string name="clima_rosas_blancas"> Esta planta necesita climas templados, ni muy cálidos ni muy fríos.</string>
+    <string name="precio_rosas_blancas">En tienda online puede llegar a costar 10€, 20 semillas de estas plantas.</string>
+    <string name="donde_comprar_rosas_blancas">Tienda online: Amazon, Etsy</string>
 
     <!-- ÁSTER -->
-    <string name="nombre_aster"></string>
-    <string name="descripcion_aster"></string>
-    <string name="plantacion_aster"></string>
-    <string name="crecimiento_aster"></string>
-    <string name="riego_aster"></string>
-    <string name="clima_aster"></string>
-    <string name="precio_aster"></string>
-    <string name="donde_comprar_aster"></string>
+    <string name="nombre_aster">Áster</string>
+    <string name="descripcion_aster">El género Aster incluye alrededor de 600 especies de plantas florales de la familia Asteraceae. Muchas de las especies son utilizadas en jardinería por sus vistosas flores.</string>
+    <string name="plantacion_aster">Al principio o a la mitad de la primavera y fertiliza la tierra antes de sembrar. Siembralas en un lugar con sol parcial y total. Siembra tus flores áster en una tierra bien drenada, húmeda y rica en humus.</string>
+    <string name="crecimiento_aster">Las flores aster suelen florecer a final de verano y nos suelen acompañar casi todo el invierno.</string>
+    <string name="riego_aster">Su riego debe ser moderado, frecuente, pero evitando los encharcamientos.</string>
+    <string name="clima_aster">Se adapta a todo tipo de condiciones climáticas.</string>
+    <string name="precio_aster">En tienda online puede llegar a costar de 5€ a 10€, 100 semillas de estas plantas.</string>
+    <string name="donde_comprar_aster">Tienda online: Amazon, Etsy, Abonos Calsilla.</string>
 
     <!-- DALIA -->
-    <string name="nombre_dalia"></string>
-    <string name="descripcion_dalia"></string>
-    <string name="plantacion_dalia"></string>
-    <string name="crecimiento_dalia"></string>
-    <string name="riego_dalia"></string>
-    <string name="clima_dalia"></string>
-    <string name="precio_dalia"></string>
-    <string name="donde_comprar_dalia"></string>
+    <string name="nombre_dalia">Delia</string>
+    <string name="descripcion_dalia">Son flores llenas de color que tienen su origen en México. Estas plantas son unas de las más buscadas en verano, porque es justo la época cuando aparece su esperada flor, tan llamativa, y que se mantiene hasta el otoño.</string>
+    <string name="plantacion_dalia">Se plantan a finales de invierno-inicios de primavera con una sustrato para semilleros y, a medida que crezcan, habrá que trasplantar los planteles a macetas más grandes hasta que colocarlos en su lugar definitivo a finales de primavera.</string>
+    <string name="crecimiento_dalia">Para que la dalia crezca fuerte, es necesario que la coloques en una zona con bastante luz. Recuerda que es mejor que los rayos no le den de forma directa y que tampoco es conveniente que esté en una zona con muchas corrientes, pues esto puede mermar su crecimiento.</string>
+    <string name="riego_dalia">Necesitan regarse una vez por semana o, incluso, una vez cada dos semanas. Es necesario no mojar sus hojas ni flores, sino mantener la tierra húmeda. A principios de verano, es conveniente regarla con más abundancia.</string>
+    <string name="clima_dalia">Son de climas templados, pero aguantan bien el calor y las heladas.</string>
+    <string name="precio_dalia">Puede conseguirse por menos de 5€, tanto en tiendas físicas como online.</string>
+    <string name="donde_comprar_dalia">Tiendas: Carrefour, Amazon, Leroy Merlin, Etsy.</string>
 
     <!-- ASTILBE -->
-    <string name="nombre_astilbe"></string>
-    <string name="descripcion_astilbe"></string>
-    <string name="plantacion_astilbe"></string>
-    <string name="crecimiento_astilbe"></string>
-    <string name="riego_astilbe"></string>
-    <string name="clima_astilbe"></string>
-    <string name="precio_astilbe"></string>
-    <string name="donde_comprar_astilbe"></string>
+    <string name="nombre_astilbe">Astilbe</string>
+    <string name="descripcion_astilbe">Ciertas especies se conocen comúnmente como falsa barba de cabra y spirea falsa. Las especies de Astilbe son nativas del este y sur de Asia.</string>
+    <string name="plantacion_astilbe">El momento ideal para plantarla es durante el verano.</string>
+    <string name="crecimiento_astilbe">Plantado en suelo y según la variedad entre los 80 centímetros y el metro y medio de altura puede llegar a alcanzar.</string>
+    <string name="riego_astilbe">Riega repetidamente durante el verano del primer año de plantación.</string>
+    <string name="clima_astilbe">Resiste heladas de hasta los -12ºC, aunque prefiere climas cálidos, sin temperaturas bajas.</string>
+    <string name="precio_astilbe">En tienda online puede costar de 8 a 15€, 20 semillas.</string>
+    <string name="donde_comprar_astilbe">Tienda online: Etsy.</string>
 
     <!-- GAZANIA -->
-    <string name="nombre_gazania"></string>
-    <string name="descripcion_gazania"></string>
-    <string name="plantacion_gazania"></string>
-    <string name="crecimiento_gazania"></string>
-    <string name="riego_gazania"></string>
-    <string name="clima_gazania"></string>
-    <string name="precio_gazania"></string>
-    <string name="donde_comprar_gazania"></string>
+    <string name="nombre_gazania">Gazania</string>
+    <string name="descripcion_gazania">Gazania es un género de plantas perteneciente a la familia Asteraceae. Muchas de las especies de este género se utilizan como plantas ornamentales. Otras son a menudo cultivadas para repoblar suelos áridos por su tolerancia a la sequía.</string>
+    <string name="plantacion_gazania">Siembra las Gazanias a principios de la primavera, en pleno sol y en terreno bien drenado.</string>
+    <string name="crecimiento_gazania">La floración de la gazania se da durante la primavera y alcanza su máximo exponente durante el verano y, si las condiciones son adecuadas, puede llegar a alargarse hasta mediados o finales de otoño.</string>
+    <string name="riego_gazania">El riego debe ser frecuente en verano, pero sin encharcar, al que se puede añadir abono durante la época de floración cada quince días.</string>
+    <string name="clima_gazania">El clima debe ser suave, resistiendo heladas esporádicas de hasta -5ºC.</string>
+    <string name="precio_gazania">En tienda online puede costar de 2 a 6€, varias semillas.</string>
+    <string name="donde_comprar_gazania">Tienda online: Amazon, Planeta Huerto, CultivoMiHuerto.</string>
 
     <!-- CORAZÓN SANGRANTE -->
-    <string name="nombre_corazon_sangrante"></string>
-    <string name="descripcion_corazon_sangrante"></string>
-    <string name="plantacion_corazon_sangrante"></string>
-    <string name="crecimiento_corazon_sangrante"></string>
-    <string name="riego_corazon_sangrante"></string>
-    <string name="clima_corazon_sangrante"></string>
-    <string name="precio_corazon_sangrante"></string>
-    <string name="donde_comprar_corazon_sangrante"></string>
+    <string name="nombre_corazon_sangrante">Corazón Sangrante</string>
+    <string name="descripcion_corazon_sangrante">Es una planta herbácea rizomatosa perenne originaria de Asia del Este: norte de China, sur de Japón, Corea y Siberia.</string>
+    <string name="plantacion_corazon_sangrante">La mejor época para plantarlos es en otoño. El suelo tiene que ser fértil y estar bien drenado, pero no debe estar muy húmedo.</string>
+    <string name="crecimiento_corazon_sangrante">Lo más usual es verlas florecer durante fines de primavera hasta la primera mitad del verano.</string>
+    <string name="riego_corazon_sangrante">En épocas de pleno calor, esta se debe regar semanalmente. Y en épocas de frío cada 2 semanas aproximadamente.</string>
+    <string name="clima_corazon_sangrante">La planta del corazón sangrante deberá colocarse a sombra parcial o total y en climas más fríos y húmedos pueden llegar a tolerar el pleno sol.</string>
+    <string name="precio_corazon_sangrante">En tienda online puede costar unos 7€, 5 semillas.</string>
+    <string name="donde_comprar_corazon_sangrante">Tienda online: Etsy.</string>
 
     <!-- GERANIOS -->
-    <string name="nombre_geranios"></string>
-    <string name="descripcion_geranios"></string>
-    <string name="plantacion_geranios"></string>
-    <string name="crecimiento_geranios"></string>
-    <string name="riego_geranios"></string>
-    <string name="clima_geranios"></string>
-    <string name="precio_geranios"></string>
-    <string name="donde_comprar_geranios"></string>
+    <string name="nombre_geranios">Geranios</string>
+    <string name="descripcion_geranios">El género Geranium, comúnmente llamado geranio, agrupa 422 especies de plantas anuales, bienales y perennes frecuentemente utilizadas en jardinería por sus atractivas flores y su aroma característico.</string>
+    <string name="plantacion_geranios">La mejor época del año es en primavera-verano, momento en el que la temperatura y el sol son los ideales para ayudar a que la planta crezca sana.</string>
+    <string name="crecimiento_geranios">El crecimiento del geranio se hará con una temperatura entre 16 y 18ºC, con ambiente en penumbra, asegurándose de que la tierra se mantiene húmeda y a buena temperatura.</string>
+    <string name="riego_geranios">En primavera y verano hay que regar los geranios con frecuencia, al menos dos veces por semana, mientras que en otoño basta con un riego semanal. Durante el invierno, casi no necesitan agua. Es importante evitar los encharcamientos.</string>
+    <string name="clima_geranios">El clima ideal para esta planta son los climas cálidos donde las temperaturas se encuentren estables entre los 20-30⁰C.</string>
+    <string name="precio_geranios">Puede costar menos de 5€ un paquete con varias semillas.</string>
+    <string name="donde_comprar_geranios">Tienda online y tienda física: Leroy Merlín, Amazon, Planeta Huerto.</string>
 
     <!-- PETUNIAS -->
-    <string name="nombre_petunias"></string>
-    <string name="descripcion_petunias"></string>
-    <string name="plantacion_petunias"></string>
-    <string name="crecimiento_petunias"></string>
-    <string name="riego_petunias"></string>
-    <string name="clima_petunias"></string>
-    <string name="precio_petunias"></string>
-    <string name="donde_comprar_petunias"></string>
+    <string name="nombre_petunias">Petunias</string>
+    <string name="descripcion_petunias">La petunia es una planta de exterior muy común por su fácil cultivo y por la gran cantidad de flores que ofrece durante la primavera y el verano.</string>
+    <string name="plantacion_petunias">La época ideal para la siembra de nuestras petunias es a finales de invierno o principios de primavera.</string>
+    <string name="crecimiento_petunias">La altura de la petunia oscila entre los 30 y los 50 cm. y crece formando macizos.</string>
+    <string name="riego_petunias">Necesita riegos abundantes y diarios durante la floración, en primavera y, sobre todo, verano. Es importante no mojar las flores al regar y evitar hacerlo durante las horas más soleadas.</string>
+    <string name="clima_petunias">Climas cálidos con temperaturas que oscilan entre los 16 y 25º C.</string>
+    <string name="precio_petunias">Puede costar menos de 5€ un paquete con varias semillas.</string>
+    <string name="donde_comprar_petunias">Tienda online y tienda física: Leroy Merlín, Amazon, Planeta Huerto.</string>
 
     <!-- LIRIO AZUL -->
-    <string name="nombre_lirio_azul"></string>
+    <string name="nombre_lirio_azul">Lirio Azul</string>
     <string name="descripcion_lirio_azul"></string>
     <string name="plantacion_lirio_azul"></string>
     <string name="crecimiento_lirio_azul"></string>
