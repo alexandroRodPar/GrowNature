@@ -254,388 +254,387 @@
 
     <!-- LIRIO AZUL -->
     <string name="nombre_lirio_azul">Lirio Azul</string>
-    <string name="descripcion_lirio_azul"></string>
-    <string name="plantacion_lirio_azul"></string>
-    <string name="crecimiento_lirio_azul"></string>
-    <string name="riego_lirio_azul"></string>
-    <string name="clima_lirio_azul"></string>
-    <string name="precio_lirio_azul"></string>
-    <string name="donde_comprar_lirio_azul"></string>
+    <string name="descripcion_lirio_azul">Es una especie que puede alcanzar 70 cm de altura, de la familia de las iridáceas. Es endémico de la península ibérica.</string>
+    <string name="plantacion_lirio_azul">Se plantan a finales del verano.</string>
+    <string name="crecimiento_lirio_azul">Hasta alcanzar tamaño comercial, tarda aproximadamente dos años.</string>
+    <string name="riego_lirio_azul">Regar de forma moderada a razón de una vez por semana en primavera y en otoño y unas dos veces en verano si hace mucho calor.</string>
+    <string name="clima_lirio_azul">El rango óptimo de temperatura del suelo debe oscilar entre 10-15ºC.</string>
+    <string name="precio_lirio_azul">En tienda online puede costar menos de 8€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_lirio_azul">Tienda online: Amazon, Planeta Huerto.</string>
 
     <!-- CLAVEL -->
     <string name="nombre_clavel">Clavel (dianthus caryophyllus)</string>
-    <string name="descripcion_clavel"></string>
-    <string name="plantacion_clavel"></string>
-    <string name="crecimiento_clavel"></string>
-    <string name="riego_clavel"></string>
-    <string name="clima_clavel"></string>
-    <string name="precio_clavel"></string>
-    <string name="donde_comprar_clavel"></string>
+    <string name="descripcion_clavel">El clavel o clavelina​ es una planta herbácea perteneciente a la familia de las Caryophyllaceae, difundida en las regiones mediterráneas. Es espontánea en la flora de la península ibérica.</string>
+    <string name="plantacion_clavel">La época ideal para plantar clavel es en primavera u otoño, asegurándose de que el peligro de las heladas haya pasado o aún no haya llegado.</string>
+    <string name="crecimiento_clavel">Florece durante las temporadas de primavera y verano (su floración dura usualmente alrededor de dos meses), pero con el cuidado correcto en interiores pueden florecer todo el año.</string>
+    <string name="riego_clavel">El riego de los claveles debe ser regular, sobre todo, durante los meses de calor, ya que hay que tener en cuenta que va a estar a pleno sol y, por tanto, necesita una buena pauta de riego.</string>
+    <string name="clima_clavel">Temperatura diurna sobre los 15-18ºC, no superando los 21ºC en verano. Temperatura nocturna entre los 10-12ºC.</string>
+    <string name="precio_clavel">En tienda online y física puede costar menos de 5€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_clavel">Tienda online: Amazon, Planeta Huerto, Leroy Merlín.</string>
 
     <!-- PENSAMIENTO -->
     <string name="nombre_pensamiento">Pensamiento (viola x wittrockiana)</string>
-    <string name="descripcion_pensamiento"></string>
-    <string name="plantacion_pensamiento"></string>
-    <string name="crecimiento_pensamiento"></string>
-    <string name="riego_pensamiento"></string>
-    <string name="clima_pensamiento"></string>
-    <string name="precio_pensamiento"></string>
-    <string name="donde_comprar_pensamiento"></string>
+    <string name="descripcion_pensamiento">Los pensamientos son plantas híbridas ornamentales, cultivadas por sus vistosas flores, obtenidas de la especie silvestre Viola tricolor.</string>
+    <string name="plantacion_pensamiento">Se suele plantar a finales de invierno, principios de primavera, elegiremos ubicaciones a pleno sol ya que en esta época del año, cuando se planta el pensamiento, el tiempo no es muy caluroso.</string>
+    <string name="crecimiento_pensamiento">Los pensamientos requieren de suelos ricos en nutrientes para su buen crecimiento. Siempre deben darles el sol y necesitan iluminación natural.</string>
+    <string name="riego_pensamiento">Es conveniente regarlas con una frecuencia de 3 días durante la floración. Hay que procurar que la tierra en la que crecen esté siempre húmeda.</string>
+    <string name="clima_pensamiento">Prosperan bien con temperaturas entre 4ºC y 21ºC grados, y es inevitable que decaigan cuando llegan las temperaturas altas del verano.</string>
+    <string name="precio_pensamiento">En tienda online y física puede costar menos de 3€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_pensamiento">Tienda online:Leroy Merlín, Planeta Huerto.</string>
 
     <!-- CRISANTEMO -->
     <string name="nombre_crisantemo">Crisantemo (chrysanthemum morifolium)</string>
-    <string name="descripcion_crisantemo"></string>
-    <string name="plantacion_crisantemo"></string>
-    <string name="crecimiento_crisantemo"></string>
-    <string name="riego_crisantemo"></string>
-    <string name="clima_crisantemo"></string>
-    <string name="precio_crisantemo"></string>
-    <string name="donde_comprar_crisantemo"></string>
+    <string name="descripcion_crisantemo">Chrysanthemum morifolium, es una especie de planta medicinal de la familia Asteraceae y del género Chrysanthemum. Es originaria de Asia donde se distribuye por China.</string>
+    <string name="plantacion_crisantemo">Se deben plantar en primavera, para finales de verano, principios de otoño poder florecer.</string>
+    <string name="crecimiento_crisantemo">Los crisantemos son una planta perenne que pueden alcanzar hasta 1,5 m de alto en maceta no suele crecer más de 30 cm.</string>
+    <string name="riego_crisantemo">Regar sólo cuando la tierra esté seca y evita mojar el follaje para esquivar enfermedades como el moho o la roya.</string>
+    <string name="clima_crisantemo">Las temperaturas diurnas no deben situarse por encima de 25ºC ni las nocturnas por debajo de 10ºC.</string>
+    <string name="precio_crisantemo">En tienda online puede costar menos de 5€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_crisantemo">Tienda online: Amazon.</string>
 
     <!-- GIRASOL -->
-    <string name="nombre_girasol"></string>
-    <string name="descripcion_girasol"></string>
-    <string name="plantacion_girasol"></string>
-    <string name="crecimiento_girasol"></string>
-    <string name="riego_girasol"></string>
-    <string name="clima_girasol"></string>
-    <string name="precio_girasol"></string>
-    <string name="donde_comprar_girasol"></string>
+    <string name="nombre_girasol">Girasol</string>
+    <string name="descripcion_girasol">Es una planta herbácea anual de la familia de las asteráceas originaria de Centro y Norteamérica y cultivada como alimenticia, oleaginosa y ornamental en todo el mundo.</string>
+    <string name="plantacion_girasol">En primaveras cálidas con suelos pesados y húmedos, la profundidad de siembra es de 5 a 6 cm.</string>
+    <string name="crecimiento_girasol">Los girasoles crecen mejor cuando están bajo pleno sol, y florecen durante el verano o a principios del otoño.</string>
+    <string name="riego_girasol">Lo ideal es regarlos con agua fresquita cada día o cada dos días. Eso sí, conviene evitar siempre que haya pétalos u hojas en el agua, pues esto puede provocar que se pudra el tallo o se deteriore la flor.</string>
+    <string name="clima_girasol">La temperatura ideal para el crecimiento y floración está entre 20 y 25ºC</string>
+    <string name="precio_girasol">En tienda online y física puede costar menos de 5€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_girasol">Tienda online: Amazon, Planeta Huerto, Leroy Merlín.</string>
 
     <!-- FLOR DE PORCELANA -->
-    <string name="nombre_flor_de_porcelana"></string>
-    <string name="descripcion_flor_de_porcelana"></string>
-    <string name="plantacion_flor_de_porcelana"></string>
-    <string name="crecimiento_flor_de_porcelana"></string>
-    <string name="riego_flor_de_porcelana"></string>
-    <string name="clima_flor_de_porcelana"></string>
-    <string name="precio_flor_de_porcelana"></string>
-    <string name="donde_comprar_flor_de_porcelana"></string>
+    <string name="nombre_flor_de_porcelana">Flor de Porcelana</string>
+    <string name="descripcion_flor_de_porcelana">La flor de porcelana debe su nombre popular al aspecto de sus flores que son de una suavidad muy delicada. Basta ver estas flores de apariencia cerosa para descubrir que parecieran hechas de porcelana.</string>
+    <string name="plantacion_flor_de_porcelana">La época ideal para plantarla es en primavera ya que la temperatura suele ser media o también puede ser plantada a mediados del otoño.</string>
+    <string name="crecimiento_flor_de_porcelana">Florece por lo general en el Verano, en umbelas de flores cerosas de color blanco con el centro rojizo.</string>
+    <string name="riego_flor_de_porcelana">Debe ser regular durante el crecimiento, pero reducido en otoño-invierno.</string>
+    <string name="clima_flor_de_porcelana">Es una planta de clima cálido.</string>
+    <string name="precio_flor_de_porcelana"> En tienda online puede costar menos de 15 € una planta joven.</string>
+    <string name="donde_comprar_flor_de_porcelana">Tienda online: Jardinería Ourense.</string>
 
     <!-- PASIFLORA -->
-    <string name="nombre_pasiflora"></string>
-    <string name="descripcion_pasiflora"></string>
-    <string name="plantacion_pasiflora"></string>
-    <string name="crecimiento_pasiflora"></string>
-    <string name="riego_pasiflora"></string>
-    <string name="clima_pasiflora"></string>
-    <string name="precio_pasiflora"></string>
-    <string name="donde_comprar_pasiflora"></string>
+    <string name="nombre_pasiflora">Pasiflora</string>
+    <string name="descripcion_pasiflora">La pasiflora es una planta que posee principios activos y propiedades medicinales que la convierten en un aliado para la salud del sistema.</string>
+    <string name="plantacion_pasiflora">La mejor época de plantación de las semillas de flor de la pasión es la primavera.</string>
+    <string name="crecimiento_pasiflora">Es una gran trepadora que puede llegar a abarcar entre 6 y 9 metros de longitud.</string>
+    <string name="riego_pasiflora">Durante los meses de primavera y verano se tienen que regar frecuentemente, hasta 3 veces por semana, mientras que en otoño e invierno será suficiente un riego semanal.</string>
+    <string name="clima_pasiflora">Se adaptan a los climas mediterráneos, viven bien a temperaturas entre 18-27°C en verano y 10 °C en invierno.</string>
+    <string name="precio_pasiflora">En tienda online puede costar menos de 4€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_pasiflora">Tienda online: Amazon, Plantamus, ebay.</string>
 
     <!-- ZINNIA -->
-    <string name="nombre_zinnia"></string>
-    <string name="descripcion_zinnia"></string>
-    <string name="plantacion_zinnia"></string>
-    <string name="crecimiento_zinnia"></string>
-    <string name="riego_zinnia"></string>
-    <string name="clima_zinnia"></string>
-    <string name="precio_zinnia"></string>
-    <string name="donde_comprar_zinnia"></string>
+    <string name="nombre_zinnia">Zinnia</string>
+    <string name="descripcion_zinnia">Son plantas con atractivo económico para los viveros debido a su fácil cultivo que además se puede llevar a cabo en cualquier época del año.</string>
+    <string name="plantacion_zinnia">Se siembra de almácigo o asiento , en primavera y verano.</string>
+    <string name="crecimiento_zinnia">Germina a los 5 – 10 días , se hizo almácigo transplante cuando las plantas tienen 10 cm de alto a tierras sueltas y soleadas. Florece en verano y otoño.</string>
+    <string name="riego_zinnia">El riego debe ser regular, aunque sin excederse.</string>
+    <string name="clima_zinnia">A la Zinnia le encanta el calor, de ahí que su distribución se encuentre en climas cálidos.</string>
+    <string name="precio_zinnia">En tienda online como física puede costar menos de 5€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_zinnia">Tienda online: Amazon, Planeta Huerto, Leroy Merlín.</string>
 
     <!-- AZUCENA -->
-    <string name="nombre_azucena"></string>
-    <string name="descripcion_azucena"></string>
-    <string name="plantacion_azucena"></string>
-    <string name="crecimiento_azucena"></string>
-    <string name="riego_azucena"></string>
-    <string name="clima_azucena"></string>
-    <string name="precio_azucena"></string>
-    <string name="donde_comprar_azucena"></string>
+    <string name="nombre_azucena">Azucena</string>
+    <string name="descripcion_azucena">El género de las azucenas pertenece a la familia de las liliáceas, y están constituidas por alrededor de 110 especies. Es una planta bulbosa.</string>
+    <string name="plantacion_azucena">Los meses ideales para la plantación de la Azucena, son septiembre y octubre.</string>
+    <string name="crecimiento_azucena">Puesto que las azucenas florecen durante unas semanas, si plantamos varios tipos de azucenas en el jardín, podremos disfrutar de sus flores durante unos tres meses.</string>
+    <string name="riego_azucena">Necesitan ser regadas 2 o 3 veces por semana, dependiendo del clima, para mantener el suelo húmedo pero sin encharcar.</string>
+    <string name="clima_azucena">La temperatura óptima para el crecimiento de la azucena está comprendida entre los 18 y 24 ºC. Eso de día, por la noche oscila en una temperatura de entre 12 y 15 ºC.</string>
+    <string name="precio_azucena">En tienda online puede costar de 6 a 7€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_azucena">Tienda online: Planeta Huerto.</string>
 
     <!-- FLOR DE LOTO -->
-    <string name="nombre_flor_de_loto"></string>
-    <string name="descripcion_flor_de_loto"></string>
-    <string name="plantacion_flor_de_loto"></string>
-    <string name="crecimiento_flor_de_loto"></string>
-    <string name="riego_flor_de_loto"></string>
-    <string name="clima_flor_de_loto"></string>
-    <string name="precio_flor_de_loto"></string>
-    <string name="donde_comprar_flor_de_loto"></string>
+    <string name="nombre_flor_de_loto">Flor de Loto</string>
+    <string name="descripcion_flor_de_loto">Nelumbo nucifera es una de las dos especies pertenecientes al género Nelumbo. Recibe el nombre vulgar de loto sagrado o loto indio, y a veces el de rosa del Nilo. Es famosa la longevidad de sus semillas, que pueden germinar después de diez siglos.</string>
+    <string name="plantacion_flor_de_loto">El cultivo de la flor de loto se realiza por semillas o por división. En el primer caso las semillas se introducen en el sustrato del fondo del estanque. La segunda opción se lleva a cabo a partir de la división de un rizoma.</string>
+    <string name="crecimiento_flor_de_loto">El loto florece a finales de primavera y sus flores duran hasta los últimos días del verano.</string>
+    <string name="riego_flor_de_loto">No es necesario regarla, pero conviene añadir al estanque agua tibia, sobre todo en invierno, para evitar que el agua sobre la que se desarrolla se enfríe en exceso.</string>
+    <string name="clima_flor_de_loto">La flor de loto es acuática, además de una flor para la primavera y el verano. Por lo tanto, para cuidar de la flor de loto debes tener muy en cuenta el clima, ya que resiste de forma moderada a las bajas temperaturas. Esto quiere decir que en verano crece bastante, pero en la temporada de invierno se seca.</string>
+    <string name="precio_flor_de_loto">En tienda online puede costar de 6 a 25€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_flor_de_loto">Tienda online: ManoMano, Ebay.</string>
 
   <!-- ARBUSTOS -->
     <!-- GALÁN DE NOCHE -->
-    <string name="nombre_galan_de_noche"></string>
-    <string name="descripcion_galan_de_noche"></string>
-    <string name="plantacion_galan_de_noche"></string>
-    <string name="crecimiento_galan_de_noche"></string>
-    <string name="riego_galan_de_noche"></string>
-    <string name="clima_galan_de_noche"></string>
-    <string name="precio_galan_de_noche"></string>
-    <string name="donde_comprar_galan_de_noche"></string>
+    <string name="nombre_galan_de_noche">Galán de Noche</string>
+    <string name="descripcion_galan_de_noche">Cestrum nocturnum llamada comúnmente dama de noche o galán de noche es una planta de la familia de las solanáceas. Nativa de América, se ha naturalizado en Asia Meridional y se cultiva ampliamente en los trópicos.​</string>
+    <string name="plantacion_galan_de_noche">A principios de primavera, luego de la última helada. Florece desde finales de primavera y durante todo el verano.</string>
+    <string name="crecimiento_galan_de_noche">Es una planta de crecimiento rápido, que ronda los 5 metros de altura y que requiere de podas constantes, sobre todo si se cultiva en interiores.</string>
+    <string name="riego_galan_de_noche">En los meses cálidos: de primavera a verano lo común es regar cada 48 horas. En los meses fríos: bastará con unos dos riegos semanales.</string>
+    <string name="clima_galan_de_noche">Se sitúa en sol o sombra parcial, ya que si la plantamos en sombra será difícil que dé flores. Le gustan los climas suaves, donde los inviernos no sean especialmente fríos, ya que no resiste las heladas.</string>
+    <string name="precio_galan_de_noche">En tienda online puede costar unos 6€ un paquete de 15 semillas.</string>
+    <string name="donde_comprar_galan_de_noche">Tienda online: Etsy, Ebay.</string>
 
     <!-- PHOTINIA -->
-    <string name="nombre_photinia"></string>
-    <string name="descripcion_photinia"></string>
-    <string name="plantacion_photinia"></string>
-    <string name="crecimiento_photinia"></string>
-    <string name="riego_photinia"></string>
-    <string name="clima_photinia"></string>
-    <string name="precio_photinia"></string>
-    <string name="donde_comprar_photinia"></string>
+    <string name="nombre_photinia">Photinia</string>
+    <string name="descripcion_photinia">Photinia es un género de alrededor 40-60 especies de pequeños árboles y grandes arbustos perteneciente a la familia Rosaceae.</string>
+    <string name="plantacion_photinia">Los mejores meses para plantarla son octubre o marzo.</string>
+    <string name="crecimiento_photinia">Capaz de alcanzar los 3 metros de altura, de crecimiento rápido y gran resistencia.</string>
+    <string name="riego_photinia">La Photinia no necesita riegos abundantes y frecuentes. Si es verano y si el arbusto está plantado en la tierra del jardín, basta con echarle agua dos o tres veces por semana.</string>
+    <string name="clima_photinia">Se amolda a una amplia gama de suelos y climas. Salvo que vivas en alta montaña, el frío del invierno no hace mella en las fotinias ya que puede soportar temperaturas en el invierno de hasta -15ºC.</string>
+    <string name="precio_photinia">En tienda online puede costar aproximadamente 11€, una planta joven.</string>
+    <string name="donde_comprar_photinia">Tienda online: Verdecora, Jardinería Ourense, ManoMano.</string>
 
     <!-- ACEBO -->
     <string name="nombre_acebo">Acebo (ilex Aquifolium)</string>
-    <string name="descripcion_acebo"></string>
-    <string name="plantacion_acebo"></string>
-    <string name="crecimiento_acebo"></string>
-    <string name="riego_acebo"></string>
-    <string name="clima_acebo"></string>
-    <string name="precio_acebo"></string>
-    <string name="donde_comprar_acebo"></string>
+    <string name="descripcion_acebo">El acebo, es un arbusto o como mucho un pequeño árbol de la familia de las Aquifoliáceas.</string>
+    <string name="plantacion_acebo">Debe ser un suelo húmedo, capaz de mantener la humedad en verano, bien drenado, que no se encharque en primavera.</string>
+    <string name="crecimiento_acebo">Puede llegar a medir unos veinte metros de altura y vivir siglos.</string>
+    <string name="riego_acebo">La planta de acebo necesita de un buen índice de humedad. Es necesario mantener un riego constante y frecuente que no deje que la tierra se seque nunca por completo, especialmente en verano.</string>
+    <string name="clima_acebo">Vive en diferentes tipos de suelos y puede soportar incluso los climas más secos. Es muy resistente a las heladas y gusta de la humedad ambiental.</string>
+    <string name="precio_acebo">En tienda online puede costar 3€ un paquete de varias semillas</string>
+    <string name="donde_comprar_acebo">Tienda online: Ebay.</string>
 
     <!-- ANDRÓMEDA JAPONESA -->
     <string name="nombre_andromeda_japonesa">Andrómeda Japonesa (Pieris Japonica)</string>
-    <string name="descripcion_andromeda_japonesa"></string>
-    <string name="plantacion_andromeda_japonesa"></string>
-    <string name="crecimiento_andromeda_japonesa"></string>
-    <string name="riego_andromeda_japonesa"></string>
-    <string name="clima_andromeda_japonesa"></string>
-    <string name="precio_andromeda_japonesa"></string>
-    <string name="donde_comprar_andromeda_japonesa"></string>
+    <string name="descripcion_andromeda_japonesa">Pieris japonica es una planta incluida en la familia Ericaceae. Es nativa del este de China, Taiwán, y Japón donde crece formando matorrales de montaña.</string>
+    <string name="plantacion_andromeda_japonesa">Es importante que se coloque en el exterior. Colócala o plántala en una zona donde no le dé el sol de manera directa en ningún momento para evitar que sus hojas se quemen.</string>
+    <string name="crecimiento_andromeda_japonesa">Arbustos de crecimiento lento, pero rústicos, resistentes y atractivos.</string>
+    <string name="riego_andromeda_japonesa">Es muy necesario controlar los riegos, ya que es muy sensible a los encharcamientos. Por eso, lo mejor es comprobar la humedad de la tierra antes de regarla.</string>
+    <string name="clima_andromeda_japonesa">Puede vivir en zonas de semisombra sin embargo su floración será más escasa de lo habitual. Resiste muy bien el frío y las heladas pero no tanto los calores excesivos del verano.</string>
+    <string name="precio_andromeda_japonesa">En tienda online puede costar 5€ un paquete de 50 semillas.</string>
+    <string name="donde_comprar_andromeda_japonesa">Tienda online: Amazon.</string>
 
     <!-- BERBERIS THUNBERGII GREEN CARPET -->
     <string name="nombre_berberis_thunbergii">Berberis Thunbergii Green Carpet</string>
-    <string name="descripcion_berberis_thunbergii"></string>
-    <string name="plantacion_berberis_thunbergii"></string>
-    <string name="crecimiento_berberis_thunbergii"></string>
-    <string name="riego_berberis_thunbergii"></string>
-    <string name="clima_berberis_thunbergii"></string>
-    <string name="precio_berberis_thunbergii"></string>
-    <string name="donde_comprar_berberis_thunbergii"></string>
+    <string name="descripcion_berberis_thunbergii">Berberis de porte compacto y rastrero, de hojas verdes brillantes. Provisto de espinas en sus ramas. Floración primaveral de color amarillo. Espectacular las tonalidades que adquiere en otoño de color anaranjado y rojo.</string>
+    <string name="plantacion_berberis_thunbergii">Plantar a lo largo de la primavera.</string>
+    <string name="crecimiento_berberis_thunbergii">Crece unos 2 metros de altura.</string>
+    <string name="riego_berberis_thunbergii">Poco exigente al riego, unas 2 veces por semana.</string>
+    <string name="clima_berberis_thunbergii">Prefiere la atmósfera seca.</string>
+    <string name="precio_berberis_thunbergii">En tienda online puede costar unos 10€ una planta joven.</string>
+    <string name="donde_comprar_berberis_thunbergii">Tienda online: Verdify.</string>
 
     <!-- BOG -->
     <string name="nombre_bog">Bog (Buxus Microphilla Faulkner)</string>
-    <string name="descripcion_bog"></string>
-    <string name="plantacion_bog"></string>
-    <string name="crecimiento_bog"></string>
-    <string name="riego_bog"></string>
-    <string name="clima_bog"></string>
-    <string name="precio_bog"></string>
-    <string name="donde_comprar_bog"></string>
+    <string name="descripcion_bog">Es una planta de buena vegetación, con hojas pequeñas y compactas de un color verde esmeralda. Admite muy bien el recorte y, por ello, es muy adecuado para la poda ornamental o topiaria.</string>
+    <string name="plantacion_bog">El bog es una buena planta de hoja perenne para macetas.</string>
+    <string name="crecimiento_bog">El bog es un arbusto que alcanza entre dos y doce metros de altura. Sus hojas verdes y redondeadas tienen una longitud entre uno y cinco centímetros de longitud.</string>
+    <string name="riego_bog">Durante los meses de más calor hay que regar con abundancia pero sin encharcar la zona y en épocas de invierno-otoño habrá que regar una vez por semana a no ser que haya previsión de lluvias.</string>
+    <string name="clima_bog">Sitúa a pleno sol, aunque también admite las zonas de semisombra. Es ideal para cultivarla en setos o en grupos.</string>
+    <string name="precio_bog">En tienda online puede costar unos 30€ una planta joven.</string>
+    <string name="donde_comprar_bog">Tienda online: Fronda.</string>
 
     <!-- BOLA DE NIEVE -->
     <string name="nombre_bola_de_nieve">Bola De Nieve (Spiraea Japonica Snowmound)</string>
-    <string name="descripcion_bola_de_nieve"></string>
-    <string name="plantacion_bola_de_nieve"></string>
-    <string name="crecimiento_bola_de_nieve"></string>
-    <string name="riego_bola_de_nieve"></string>
-    <string name="clima_bola_de_nieve"></string>
-    <string name="precio_bola_de_nieve"></string>
-    <string name="donde_comprar_bola_de_nieve"></string>
+    <string name="descripcion_bola_de_nieve">Es una especie de planta con flores en la familia Rosaceae, nativa de la isla de Shikoku, Japón.</string>
+    <string name="plantacion_bola_de_nieve">La siembra puede realizarse en septiembre o principios de primavera. Esto sucede antes de que los brotes hayan comenzado a florecer.</string>
+    <string name="crecimiento_bola_de_nieve">Crecimiento de 1.2 - 2.5 m de alto y ancho.</string>
+    <string name="riego_bola_de_nieve">Precisa riego moderado Exposición a pleno Sol Altura.</string>
+    <string name="clima_bola_de_nieve">Prefiere los climas frescos o templados.</string>
+    <string name="precio_bola_de_nieve">En tienda online puede costar 10€ una planta joven.</string>
+    <string name="donde_comprar_bola_de_nieve">Tienda online: Fronda.</string>
 
     <!-- CEANOTHUS PUGET BLUE -->
     <string name="nombre_ceanothus_puget_blue">Ceanothus Puget Blue</string>
-    <string name="descripcion_ceanothus_puget_blue"></string>
-    <string name="plantacion_ceanothus_puget_blue"></string>
-    <string name="crecimiento_ceanothus_puget_blue"></string>
-    <string name="riego_ceanothus_puget_blue"></string>
-    <string name="clima_ceanothus_puget_blue"></string>
-    <string name="precio_ceanothus_puget_blue"></string>
-    <string name="donde_comprar_ceanothus_puget_blue"></string>
+    <string name="descripcion_ceanothus_puget_blue">Son unos arbustos o pequeños árboles muy bonitos para tener en el jardín o en la terraza. Producen gran cantidad de flores durante la primavera.</string>
+    <string name="plantacion_ceanothus_puget_blue">Es mejor plantarlo en primavera.</string>
+    <string name="crecimiento_ceanothus_puget_blue">Puede alcanzar los 6 metros de altura.</string>
+    <string name="riego_ceanothus_puget_blue">El riego sólo es necesario los dos primeros años. Y no regarlo muy constantemente.</string>
+    <string name="clima_ceanothus_puget_blue">Prefiere un clima templado.</string>
+    <string name="precio_ceanothus_puget_blue">En tienda online puede costar 10€ una planta joven.</string>
+    <string name="donde_comprar_ceanothus_puget_blue">Tienda online: Fronda.</string>
 
     <!-- FORYSTHIA -->
     <string name="nombre_forysthia">Forsythia</string>
-    <string name="descripcion_forysthia"></string>
-    <string name="plantacion_forysthia"></string>
-    <string name="crecimiento_forysthia"></string>
-    <string name="riego_forysthia"></string>
-    <string name="clima_forysthia"></string>
-    <string name="precio_forysthia"></string>
-    <string name="donde_comprar_forysthia"></string>
+    <string name="descripcion_forysthia">Forsythia es un género de plantas fanerógamas en la familia de las oleáceas. Hay cerca de 11 especies, la mayoría nativas del este de Asia, aunque al menos hay una procedente del sudeste de Europa.</string>
+    <string name="plantacion_forysthia">Siembra preferiblemente en primavera.</string>
+    <string name="crecimiento_forysthia">Su ritmo de crecimiento es de tipo medio, es decir, no crece ni demasiado rápido ni demasiado lento. Si las condiciones son las adecuadas puede crecer a un ritmo de 20 cm por año.</string>
+    <string name="riego_forysthia">En verano, el riego debe ser muy abundante. De tres a cuatro veces por semana es adecuado. El resto del año se riega cada 4 o 5 días.</string>
+    <string name="clima_forysthia">Ambientes de clima cálido, en espacio al aire libre.</string>
+    <string name="precio_forysthia">En tienda online puede costar 5€ un paquete de 50 semillas.</string>
+    <string name="donde_comprar_forysthia">Tienda online: Amazon, TheOriginalGarden.</string>
 
     <!-- HEBE VERONICA -->
     <string name="nombre_hebe_veronica">Hebe Veronica</string>
-    <string name="descripcion_hebe_veronica"></string>
-    <string name="plantacion_hebe_veronica"></string>
-    <string name="crecimiento_hebe_veronica"></string>
-    <string name="riego_hebe_veronica"></string>
-    <string name="clima_hebe_veronica"></string>
-    <string name="precio_hebe_veronica"></string>
-    <string name="donde_comprar_hebe_veronica"></string>
+    <string name="descripcion_hebe_veronica">Hebe es un género de plantas nativas de Nueva Zelanda, Australia, Papúa Nueva Guinea, Rapa Nui, las islas Malvinas y Sudamérica. Agrupa a unas 15 especies aceptadas, de las casi 200 descritas, la mayor parte de las cuales es endémica de Nueva Zelanda.</string>
+    <string name="plantacion_hebe_veronica">La plantación se hace en otoño o en primavera.</string>
+    <string name="crecimiento_hebe_veronica">Puede llegar a alcanzar hasta el metro de altura.</string>
+    <string name="riego_hebe_veronica">Regar regularmente durante todo el año para que el sustrato no se seque por completo; nunca encharcar.</string>
+    <string name="clima_hebe_veronica">No soporta muy bien las temperaturas muy bajas. Hay que mantener el arbusto por encima de los 10ºC. Por ello, en climas fríos es recomendable que la hebe esté en el interior.</string>
+    <string name="precio_hebe_veronica">En tienda online puede costar de 6 a 40€ una planta joven.</string>
+    <string name="donde_comprar_hebe_veronica">Tienda online: Mano a Mano, TheOriginalGarden.</string>
 
     <!-- ALOE VERA -->
     <string name="nombre_aloe_vera">Aloe Vera</string>
-    <string name="descripcion_aloe_vera"></string>
-    <string name="plantacion_aloe_vera"></string>
-    <string name="crecimiento_aloe_vera"></string>
-    <string name="riego_aloe_vera"></string>
-    <string name="clima_aloe_vera"></string>
-    <string name="precio_aloe_vera"></string>
-    <string name="donde_comprar_aloe_vera"></string>
+    <string name="descripcion_aloe_vera">Aloe vera, llamado sábila, acíbar o áloe de Barbados, entre otros, es una especie suculenta de la familia Asphodelaceae. Con unas quinientas especies, el aloe está ampliamente distribuido y se considera una especie invasora en muchas regiones del mundo.</string>
+    <string name="plantacion_aloe_vera">La mejor época del año para plantar el aloe vera es en otoño o primavera.</string>
+    <string name="crecimiento_aloe_vera">El aloe vera está lista para su recolección cuando alcanza los dos años y hasta los cinco años de edad , ya que es durante este periodo cuando sus propiedades medicinales son más efectivas.</string>
+    <string name="riego_aloe_vera">Debes regar tu aloe vera cada 15 o 20 días, utilizando poca agua y vertiéndose directamente sobre la tierra, sin dejar la maceta encharcada. Ten en cuenta que si te excedes en la cantidad de agua, la planta de aloe vera puede llegar a pudrirse.</string>
+    <string name="clima_aloe_vera">Conviene saber que el aloe vera prefiere crecer en climas cálidos y secos, que tengan temperaturas situadas entre los 20 a 25 grados, con máximos de 40 grados.</string>
+    <string name="precio_aloe_vera">En tienda online puede costar de 6 a 15€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_aloe_vera">Tienda online: Ebay, Etsy.</string>
 
     <!-- VIBURNO -->
     <string name="nombre_viburno"> Viburno(Viburnum Lucidum)</string>
-    <string name="descripcion_viburno"></string>
-    <string name="plantacion_viburno"></string>
-    <string name="crecimiento_viburno"></string>
-    <string name="riego_viburno"></string>
-    <string name="clima_viburno"></string>
-    <string name="precio_viburno"></string>
-    <string name="donde_comprar_viburno"></string>
+    <string name="descripcion_viburno">El viburno es un arbusto muy cotizado como planta ornamental, tanto por su follaje denso de hoja perenne como por su bonita floración en primavera.</string>
+    <string name="plantacion_viburno">La época ideal para trasplantar a una maceta más grande o en una ubicación definitiva en el suelo es en primavera, cuando la temperatura del suelo empieza a ascender y ya no hay riesgo de heladas.</string>
+    <string name="crecimiento_viburno">Sin cortarla enterraremos una parte de ella, dejando las hojas superiores fuera. Pasado un tiempo comenzará a enraizar y después de unos 10 o 12 meses será una planta nueva, lista para su trasplante.</string>
+    <string name="riego_viburno">La frecuencia de riego más adecuada es de 3 veces por semana en primavera y verano, y una o dos veces por semana el resto del año.</string>
+    <string name="clima_viburno">Es una planta que tolera temperaturas bajas y altas, no soporta temperaturas de -5 ºC, ni heladas frecuentes e intensas.</string>
+    <string name="precio_viburno">En tienda online puede costar de 2 a 20€ una planta joven.</string>
+    <string name="donde_comprar_viburno">Tienda online: The Originals Garden, Verdecora.</string>
 
     <!-- BUGANVILLA -->
     <string name="nombre_buganvilla">Buganvilla</string>
-    <string name="descripcion_buganvilla"></string>
-    <string name="plantacion_buganvilla"></string>
-    <string name="crecimiento_buganvilla"></string>
-    <string name="riego_buganvilla"></string>
-    <string name="clima_buganvilla"></string>
-    <string name="precio_buganvilla"></string>
-    <string name="donde_comprar_buganvilla"></string>
+    <string name="descripcion_buganvilla">El género Bougainvillea, conocido popularmente como veranera, buganvilla, es un género de la familia Nyctaginaceae, con 18 especies aceptadas de las 35 descritas.</string>
+    <string name="plantacion_buganvilla">La época más recomendada es en primavera, cuando el riesgo de heladas haya desaparecido hasta el próximo invierno.</string>
+    <string name="crecimiento_buganvilla">Es una vida tropical con forma de arbusto, cuyas flores son coloridas durante 11 meses al año si se la planta en el clima correcto.</string>
+    <string name="riego_buganvilla">Será fundamental regar las buganvillas tres veces a la semana en verano, mientras que durante la época de frío podrás espaciar el riego.</string>
+    <string name="clima_buganvilla">Clima ideal relativamente cálido y seco.</string>
+    <string name="precio_buganvilla">En tienda online puede costar 30€ una planta joven.</string>
+    <string name="donde_comprar_buganvilla">Tienda online: Groupon ES, The Original Garden.</string>
 
     <!-- ARALIA DE JAPON -->
     <string name="nombre_aralia_de_japon">Aralia de Japón</string>
-    <string name="descripcion_aralia_de_japon"></string>
-    <string name="plantacion_aralia_de_japon"></string>
-    <string name="crecimiento_aralia_de_japon"></string>
-    <string name="riego_aralia_de_japon"></string>
-    <string name="clima_aralia_de_japon"></string>
-    <string name="precio_aralia_de_japon"></string>
-    <string name="donde_comprar_aralia_de_japon"></string>
+    <string name="descripcion_aralia_de_japon">La Aralia del Japón es una especie que se cultiva por su particular follaje y su fácil adaptación tanto al interior como al aire libre.</string>
+    <string name="plantacion_aralia_de_japon">El trasplante se hace en primavera o en otoño.</string>
+    <string name="crecimiento_aralia_de_japon">Las aralias son plantas de desarrollo bastante rápido, de forma que es fácil que doble su altura en un solo año.</string>
+    <string name="riego_aralia_de_japon">Por lo general, se debe regar unas dos veces por semana en verano, y cada 5-6 días el resto del año.</string>
+    <string name="clima_aralia_de_japon">Resiste a una amplia gama de temperaturas. Lo ideal son los 12ºC, aunque soporta casi las heladas.</string>
+    <string name="precio_aralia_de_japon">En tienda online puede costar de 15 a 25€ una planta joven.</string>
+    <string name="donde_comprar_aralia_de_japon">Tienda online: Jardinería Ourense, Etsy.</string>
 
 
 
   <!-- ÁRBOLES -->
     <!-- ARCE JAPONÉS -->
     <string name="nombre_arce_japones">Arce Japonés</string>
-    <string name="descripcion_arce_japones"></string>
-    <string name="plantacion_arce_japones"></string>
-    <string name="crecimiento_arce_japones"></string>
-    <string name="riego_arce_japones"></string>
-    <string name="clima_arce_japones"></string>
-    <string name="precio_arce_japones"></string>
-    <string name="donde_comprar_arce_japones"></string>
+    <string name="descripcion_arce_japones">El arce japonés palmeado, arce palmado japonés, arce japonés o arce polimorfo, es una especie de arce nativa de Japón y de Corea del Sur. Algunas fuentes aseveran que también es nativa de China, pero otras tratan arces chinos similares como especies separadas.</string>
+    <string name="plantacion_arce_japones">Los arces japoneses en maceta hay que trasplantarlos cada 2 años.</string>
+    <string name="crecimiento_arce_japones">Crece una media de hasta 10 metros de altura, aunque existen variedades que llegan a superar los 15.</string>
+    <string name="riego_arce_japones">Lo ideal es regar entre dos y tres veces por semana, llegando a un máximo de cuatro riegos en los meses de calor.</string>
+    <string name="clima_arce_japones">El árbol puede soportar heladas y climas subtropicales, manteniéndose sus temperaturas tolerables entre los 30 ºC y los -18 ºC.</string>
+    <string name="precio_arce_japones">En tienda online puede costar de 4 a 10€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_arce_japones">Tienda online: Mano a Mano, Ebay, Planeta Huerto.</string>
 
     <!-- ALTEA ROSA DE SIRIA -->
     <string name="nombre_altea_rosa_de_siria">Altea Rosa de Siria</string>
-    <string name="descripcion_altea_rosa_de_siria"></string>
-    <string name="plantacion_altea_rosa_de_siria"></string>
-    <string name="crecimiento_altea_rosa_de_siria"></string>
-    <string name="riego_altea_rosa_de_siria"></string>
-    <string name="clima_altea_rosa_de_siria"></string>
-    <string name="precio_altea_rosa_de_siria"></string>
-    <string name="donde_comprar_altea_rosa_de_siria"></string>
+    <string name="descripcion_altea_rosa_de_siria">Hibiscus syriacus es una especie de planta floral. Se cultiva como flor ornamental en muchas partes del mundo y se la conoce normalmente como rosa de Siria, altea, suspiro, granado blanco, malva real de Sevilla, malvavisco arbóreo o avispa.</string>
+    <string name="plantacion_altea_rosa_de_siria">El mejor tiempo para el enraizamiento de la rosa de Siria es en los meses de verano (de mayo a julio en el hemisferio norte y de diciembre a febrero en el hemisferio sur).</string>
+    <string name="crecimiento_altea_rosa_de_siria">Su floración va desde finales de verano a mediados del otoño.</string>
+    <string name="riego_altea_rosa_de_siria">Regar frecuentemente, sobre todo en verano, para que el sustrato nunca se seque completamente.</string>
+    <string name="clima_altea_rosa_de_siria">Es resistente a heladas, pero lo ideal son los climas templados.</string>
+    <string name="precio_altea_rosa_de_siria">En tienda online puede costar unos 6€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_altea_rosa_de_siria">Tienda online: Planeta Huerto.</string>
 
 
     <!-- ÁRBOL DE JÚPITER -->
     <string name="nombre_arbol_de_jupiter">Árbol de Júpiter</string>
-    <string name="descripcion_arbol_de_jupiter"></string>
-    <string name="plantacion_arbol_de_jupiter"></string>
-    <string name="crecimiento_arbol_de_jupiter"></string>
-    <string name="riego_arbol_de_jupiter"></string>
-    <string name="clima_arbol_de_jupiter"></string>
-    <string name="precio_arbol_de_jupiter"></string>
-    <string name="donde_comprar_arbol_de_jupiter"></string>
+    <string name="descripcion_arbol_de_jupiter">Lagerstroemia indica es una especie del género Lagerstroemia de la familia Lythraceae, originaria de China, Japón, Himalaya e India. Su cultivo se expandió a casi todo el continente asiático y más tarde a Europa y América.</string>
+    <string name="plantacion_arbol_de_jupiter">Se recomienda sembrarlo a fines de invierno o comienzos de primavera. Si se cultiva por esquejes, debe hacerse a principios del verano.</string>
+    <string name="crecimiento_arbol_de_jupiter">Alcanza alturas entre los 8 a los 10 metros al cabo de unos diez años.</string>
+    <string name="riego_arbol_de_jupiter">Durante los meses cálidos y siempre que esté plantado en suelo, el árbol de Júpiter demanda un riego regular de entre tres y cuatro veces por semana durante los primeros años.</string>
+    <string name="clima_arbol_de_jupiter">De origen asiático, el árbol de Júpiter se adapta perfectamente a los climas templados.</string>
+    <string name="precio_arbol_de_jupiter">En tienda online puede costar menos de 7€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_arbol_de_jupiter">Tienda online: Mano a Mano, Ebay, Planeta Huerto.</string>
 
     <!-- SYRINGA -->
     <string name="nombre_syringa">Syringa</string>
-    <string name="descripcion_syringa"></string>
-    <string name="plantacion_syringa"></string>
-    <string name="crecimiento_syringa"></string>
-    <string name="riego_syringa"></string>
-    <string name="clima_syringa"></string>
-    <string name="precio_syringa"></string>
-    <string name="donde_comprar_syringa"></string>
+    <string name="descripcion_syringa">Se trata de un árbol de mediano tamaño que produce hojas verdes y flores que varían de rosado a morado, creando un entorno muy hermoso, también conocido como el árbol Lilo.</string>
+    <string name="plantacion_syringa">La primavera o el otoño son las mejores temporadas para plantar el árbol Lilo.</string>
+    <string name="crecimiento_syringa">Se desarrolla como un gran arbusto de hojas caducas que, dependiendo de la variedad y de las condiciones medioambientales, puede alcanzar de 2,5 a 7 metros de altura.</string>
+    <string name="riego_syringa">Resiste algo la sequía, pero no mucho. Se puede regar 2 ó 3 veces por semana. Si el tiempo, después de plantar el lilo, es caluroso y seco no dude en regarlo con mayor frecuencia. Nunca dejar que se seque la tierra.</string>
+    <string name="clima_syringa">Es conveniente plantar las lilas comunes en lugares con una buena exposición a la luz del sol (al menos 6 horas al día).</string>
+    <string name="precio_syringa">En tienda online puede costar menos de 7€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_syringa">Tienda online: Mano a Mano, Planeta Huerto.</string>
 
     <!-- LAGERSTROEMIA INDICA -->
     <string name="nombre_lagarstroemia_indica">Lagerstroemia Indica</string>
-    <string name="descripcion_lagarstroemia_indica"></string>
-    <string name="plantacion_lagarstroemia_indica"></string>
-    <string name="crecimiento_lagarstroemia_indica"></string>
-    <string name="riego_lagarstroemia_indica"></string>
-    <string name="clima_lagarstroemia_indica"></string>
-    <string name="precio_lagarstroemia_indica"></string>
-    <string name="donde_comprar_lagarstroemia_indica"></string>
+    <string name="descripcion_lagarstroemia_indica">Lagerstroemia indica es una especie del género Lagerstroemia de la familia Lythraceae, originaria de China, Japón, Himalaya e India. Su cultivo se expandió a casi todo el continente asiático y más tarde a Europa y América.</string>
+    <string name="plantacion_lagarstroemia_indica">Se recomienda sembrarlo a fines de invierno o comienzos de primavera. Si se cultiva por esquejes, debe hacerse a principios del verano.</string>
+    <string name="crecimiento_lagarstroemia_indica">Su ritmo de crecimiento no es muy rápido, por lo que te permitirá controlar su desarrollo.</string>
+    <string name="riego_lagarstroemia_indica">Su riego debe ser moderado. De hecho, se trata de un árbol no se deberá regar hasta que el suelo esté completamente seco.</string>
+    <string name="clima_lagarstroemia_indica">Este árbol requiere de lugares soleados.</string>
+    <string name="precio_lagarstroemia_indica">En tienda online puede costar menos de 5€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_lagarstroemia_indica">Tienda online: Planeta Huerto.</string>
 
     <!-- RHUS TYPHINA -->
     <string name="nombre_rhus_typhina">Rhus Typhina</string>
-    <string name="descripcion_rhus_typhina"></string>
-    <string name="plantacion_rhus_typhina"></string>
-    <string name="crecimiento_rhus_typhina"></string>
-    <string name="riego_rhus_typhina"></string>
-    <string name="clima_rhus_typhina"></string>
-    <string name="precio_rhus_typhina"></string>
-    <string name="donde_comprar_rhus_typhina"></string>
+    <string name="descripcion_rhus_typhina">Es un arbolillo de hoja caduca de la familia Anacardiaceae, nativa del este de Norteamérica. Fue descubierta en el sureste de Canadá, este y noreste de los Estados Unidos, sur de Ontario, y los Apalaches.</string>
+    <string name="plantacion_rhus_typhina">También se puede plantar mediante la siembra de sus semillas. En este caso, se necesitan unos tres años para tener una planta completamente desarrollada.</string>
+    <string name="crecimiento_rhus_typhina">Puede llegar a alcanzar los 3–10 m de altura.</string>
+    <string name="riego_rhus_typhina">El riego tiene que ser moderado puesto que no resiste la sequía. Por lo general, recomiendo regarlo unas 3 veces por semana durante el verano, y unas 2 veces a la semana el resto del año.</string>
+    <string name="clima_rhus_typhina">Necesitan una exposición de semisombra si el clima es caluroso como el mediterráneo. En climas más frescos prefieren una exposición a pleno sol.</string>
+    <string name="precio_rhus_typhina">En tienda online puede costar de 8 a 25€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_rhus_typhina">Tienda online: Etsy, The Original Garden.</string>
 
     <!-- PLUMERIA RUBRA -->
     <string name="nombre_plumeria_rubra">Plumeria Rubra</string>
-    <string name="descripcion_plumeria_rubra"></string>
-    <string name="plantacion_plumeria_rubra"></string>
-    <string name="crecimiento_plumeria_rubra"></string>
-    <string name="riego_plumeria_rubra"></string>
-    <string name="clima_plumeria_rubra"></string>
-    <string name="precio_plumeria_rubra"></string>
-    <string name="donde_comprar_plumeria_rubra"></string>
+    <string name="descripcion_plumeria_rubra">Plumeria rubra, de nombre común franchipán, frangipani o cacalosúchil, es una especie del género Plumeria oriunda de México, América Central y Venezuela y ampliamente cultivada en zonas tropicales y subtropicales de todo el mundo.</string>
+    <string name="plantacion_plumeria_rubra">Las semillas se siembran en primavera, cuando la temperatura ambiente es de 20/25°C. También pueden sembrarse en el interior del hogar, con humedad y temperatura constantes, manteniendo muy buena iluminación natural.</string>
+    <string name="crecimiento_plumeria_rubra">Generalmente después de cerca de 1 año tienen una altura de unos 30 cm, al segundo año unos 60-100 cm, al tercer año 100-150 cm y podrían empezar a florecer.</string>
+    <string name="riego_plumeria_rubra">El riego tiene que ser abundante en primavera y verano, y más reducidos durante el otoño. En invierno, prácticamente hay que suspenderlos para que no se encharquen.</string>
+    <string name="clima_plumeria_rubra">Necesita una exposición soleada y altas temperaturas. No resiste el frío ni los cambios bruscos de temperatura.</string>
+    <string name="precio_plumeria_rubra">En tienda online puede costar menos de 15€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_plumeria_rubra">Tienda online: Ebay.</string>
 
     <!-- TECOMA STANS -->
     <string name="nombre_tecoma_stans">Tecoma Stans</string>
-    <string name="descripcion_tecoma_stans"></string>
-    <string name="plantacion_tecoma_stans"></string>
-    <string name="crecimiento_tecoma_stans"></string>
-    <string name="riego_tecoma_stans"></string>
-    <string name="clima_tecoma_stans"></string>
-    <string name="precio_tecoma_stans"></string>
-    <string name="donde_comprar_tecoma_stans"></string>
+    <string name="descripcion_tecoma_stans">El tronador o tronadora es un arbusto o árbol de la familia de las bignoniáceas, nativo del continente Americano. Se encuentra en gran variedad de Ambientes y en casi todos los continentes. Se cultiva como planta ornamental por sus vistosas flores amarillas.</string>
+    <string name="plantacion_tecoma_stans">Se debe cultivar siempre a pleno sol durante todo el día. Las plantas jóvenes agradecen un poco de sombra ligera durante las horas más cálidas de los días de verano. No es una planta para el interior del hogar.</string>
+    <string name="crecimiento_tecoma_stans">Esta planta desarrolla tallos leñosos de +/- 4 metros de altura y más de 15 cm de diámetro.</string>
+    <string name="riego_tecoma_stans">No son exigentes con el suelo mientras esté bien drenado pero agradecen que contenga materia orgánica.</string>
+    <string name="clima_tecoma_stans">Prefiere desarrollarse en climas donde predominan temperaturas que se encuentren entre los 16ºC-28ºC.</string>
+    <string name="precio_tecoma_stans">En tienda online puede costar de 3 a 10€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_tecoma_stans">Tienda online: Ebay.</string>
 
     <!-- RUBINA HISPIDA -->
     <string name="nombre_rubina_hispida">Robinia Hispida</string>
-    <string name="descripcion_rubina_hispida"></string>
-    <string name="plantacion_rubina_hispida"></string>
-    <string name="crecimiento_rubina_hispida"></string>
-    <string name="riego_rubina_hispida"></string>
-    <string name="clima_rubina_hispida"></string>
-    <string name="precio_rubina_hispida"></string>
-    <string name="donde_comprar_rubina_hispida"></string>
+    <string name="descripcion_rubina_hispida">Conocida como langosta erizada, acacia rosa o langosta de musgo, es un arbusto de la subfamilia Faboideae de la familia de guisantes Fabaceae.</string>
+    <string name="plantacion_rubina_hispida">La semilla debe ser plantada horizontalmente, a 3 centímetros de profundidad en un sustrato de buena calidad. Si todo marcha bien, la germinación suele producirse dentro de los siguientes 30 días.</string>
+    <string name="crecimiento_rubina_hispida">Su crecimiento es redondeado, puede llegar a alcanzar diez metros de altura.</string>
+    <string name="riego_rubina_hispida">Serán suficientes unos 3 riegos a la semana en la época de más calor, y cada 4 días el resto.</string>
+    <string name="clima_rubina_hispida">Es un árbol que proporciona sombra, color y aroma a un jardín. Resiste bien la sequía.</string>
+    <string name="precio_rubina_hispida">En tienda online puede costar unos 10€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_rubina_hispida">Tienda online:Etsy.</string>
 
     <!-- ACACIA BAILEYANA -->
     <string name="nombre_acacia_baileyana">Acacia Baileyana</string>
-    <string name="descripcion_acacia_baileyana"></string>
-    <string name="plantacion_acacia_baileyana"></string>
-    <string name="crecimiento_acacia_baileyana"></string>
-    <string name="riego_acacia_baileyana"></string>
-    <string name="clima_acacia_baileyana"></string>
-    <string name="precio_acacia_baileyana"></string>
-    <string name="donde_comprar_acacia_baileyana"></string>
+    <string name="descripcion_acacia_baileyana">La acacia mimosa es un arbusto o arbolillo de la familia de las leguminosas. Es una de las cerca de 1000 especies de Acacia de Australia. Es endémica de un área reducida al sur de Nueva Gales del Sur aunque ha sido plantada en otros estados australianos.</string>
+    <string name="plantacion_acacia_baileyana">La Acacia se trasplanta cada año en primavera usando un buen mantillo rico en turba.</string>
+    <string name="crecimiento_acacia_baileyana">Si las condiciones son adecuadas, puede crecer a un ritmo de medio metro año.</string>
+    <string name="riego_acacia_baileyana">A partir de la primavera y todo el verano suministrar, con el agua de riego.</string>
+    <string name="clima_acacia_baileyana">Es habitual de climas cálidos, aunque tolera tanto el frío como la sequía.</string>
+    <string name="precio_acacia_baileyana">En tienda online puede costar menos de 10€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_acacia_baileyana">Tienda online: The Original Garden.</string>
 
     <!-- PRUNUS SERRULATA -->
     <string name="nombre_prunus_serrulata">Prunus Serrulata</string>
-    <string name="descripcion_prunus_serrulata"></string>
-    <string name="plantacion_prunus_serrulata"></string>
-    <string name="crecimiento_prunus_serrulata"></string>
-    <string name="riego_prunus_serrulata"></string>
-    <string name="clima_prunus_serrulata"></string>
-    <string name="precio_prunus_serrulata"></string>
-    <string name="donde_comprar_prunus_serrulata"></string>
+    <string name="descripcion_prunus_serrulata">Prunus serrulata llamado comúnmente cerezo de flor japonés, es una especie de cerezo nativo de Japón, Corea y China. Se utiliza como ornamental por su floración primaveral.</string>
+    <string name="plantacion_prunus_serrulata">Requieren mucho sol y que estés atento para que sus raíces no convivan con el exceso de agua.</string>
+    <string name="crecimiento_prunus_serrulata">Alcanza una altura de 5 ó 6 metros, por lo que será una estupenda apuesta para jardines pequeños o para alineaciones de calles estrechas.</string>
+    <string name="riego_prunus_serrulata">El riego ha de ser frecuente, pero evitando el encharcamiento. Durante el verano, si este es muy cálido y seco, regaremos unas 3-4 veces por semana.</string>
+    <string name="clima_prunus_serrulata">El cerezo japonés es perfecto para zonas de clima templado.</string>
+    <string name="precio_prunus_serrulata">En tienda online puede costar de 6 a 25€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_prunus_serrulata">Tienda online: Amazon, Ebay, Etsy.</string>
 
     <!-- BAUHINIA VARIEGATA -->
     <string name="nombre_bauhinia_variegata">Bauhinia Variegata</string>
-    <string name="descripcion_bauhinia_variegata"></string>
-    <string name="plantacion_bauhinia_variegata"></string>
-    <string name="crecimiento_bauhinia_variegata"></string>
-    <string name="riego_bauhinia_variegata"></string>
-    <string name="clima_bauhinia_variegata"></string>
-    <string name="precio_bauhinia_variegata"></string>
-    <string name="donde_comprar_bauhinia_variegata"></string>
+    <string name="descripcion_bauhinia_variegata">Bauhinia variegata, llamado vulgarmente falsa caoba, uña de vaca, árbol de las orquídeas, o árbol orquídea, es un árbol de la familia de las fabáceas, originario del sur y sureste de Asia, desde China meridional, Burma, India, Nepal, Pakistán y Sri Lanka.</string>
+    <string name="plantacion_bauhinia_variegata">En primavera, cuando el riesgo de heladas haya pasado.</string>
+    <string name="crecimiento_bauhinia_variegata">Florece en primavera después de dos o tres años aproximadamente.</string>
+    <string name="riego_bauhinia_variegata">El riego ha de ser frecuente durante la época más cálida y seca del año, pero moderado el resto de estaciones.</string>
+    <string name="clima_bauhinia_variegata">Crece en exposiciones de semisombra o de pleno sol y necesita temperaturas cálidas-templadas (no soporta las heladas).</string>
+    <string name="precio_bauhinia_variegata">En tienda online puede costar de 6 a 10€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_bauhinia_variegata">Tienda online: Planeta Huerto, Ebay.</string>
 
     <!-- PINO -->
     <string name="nombre_pino">Pino</string>
-    <string name="descripcion_pino"></string>
-    <string name="plantacion_pino"></string>
-    <string name="crecimiento_pino"></string>
-    <string name="riego_pino"></string>
-    <string name="clima_pino"></string>
-    <string name="precio_pino"></string>
-    <string name="donde_comprar_pino"></string>
+    <string name="descripcion_pino">El pino es un género de plantas vasculares, comúnmente llamadas pinos, pertenecientes al grupo de las coníferas y, dentro de este, a la familia de las Pinaceae, que presentan una ramificación frecuentemente verticilada y más o menos regular.</string>
+    <string name="plantacion_pino">Lo ideal es plantarlo en el otoño o principios de la primavera.</string>
+    <string name="crecimiento_pino">Tiene una media de crecimiento anual de 50 cm y puede alcanzar hasta los 30 metros de altura.</string>
+    <string name="riego_pino">El agua debe estar a temperatura ambiente, preferiblemente que sea agua destilada o agua de lluvia. Mantén el suelo húmedo pero sin pasarte.</string>
+    <string name="clima_pino">El clima de este tipo de bosque es templado húmedo, con áreas de suelo seco y/o arenoso.</string>
+    <string name="precio_pino">En tienda online puede costar de 3 a 10€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_pino">Tienda online: The Original Garden, Ebay.</string>
 
     <!-- LAUREL -->
     <string name="nombre_laurel">Laurel</string>
-    <string name="descripcion_laurel"></string>
-    <string name="plantacion_laurel"></string>
-    <string name="crecimiento_laurel"></string>
-    <string name="riego_laurel"></string>
-    <string name="clima_laurel"></string>
-    <string name="precio_laurel"></string>
-    <string name="donde_comprar_laurel"></string>
-
+    <string name="descripcion_laurel">Laurus nobilis, llamado comúnmente laurel o lauro, es un arbusto o árbol perenne perteneciente a la familia de las lauráceas, a la que da nombre. Es originario de la región del Mar Mediterráneo y sus hojas son utilizadas para remedios y en la cocina.</string>
+    <string name="plantacion_laurel">La primavera será una de las mejores épocas para plantar o trasplantar el laurel, ya que las temperaturas serán más suaves.</string>
+    <string name="crecimiento_laurel">Crece lentamente, pero puede alcanzar un tamaño de varios metros, por lo que si piensas dejarlo sin podar y sin control, vale la pena tener esto en cuenta al considerarlo para tu jardín.</string>
+    <string name="riego_laurel">El riego del laurel deberá ser escaso, puesto que se trata de una especie acostumbrada a la sequía y no requiere de grandes cantidades de agua.</string>
+    <string name="clima_laurel">No tolera las heladas. Prefiere climas cálidos o templados y una exposición soleada y resguardada.</string>
+    <string name="precio_laurel">En tienda online puede costar unos 10€ un paquete de varias semillas.</string>
+    <string name="donde_comprar_laurel">Tienda online: ManoMano, The Original Garden.</string>
 
 </resources>
