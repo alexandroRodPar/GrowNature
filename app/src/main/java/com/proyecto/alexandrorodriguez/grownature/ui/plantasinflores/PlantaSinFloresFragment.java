@@ -1,6 +1,8 @@
 package com.proyecto.alexandrorodriguez.grownature.ui.plantasinflores;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.os.Parcelable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -9,6 +11,7 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.proyecto.alexandrorodriguez.grownature.CaracteristicasActivity;
 import com.proyecto.alexandrorodriguez.grownature.R;
 import com.proyecto.alexandrorodriguez.grownature.adapters.AdapterView;
 import com.proyecto.alexandrorodriguez.grownature.model.PlantasArbustosArboles;
@@ -44,9 +47,21 @@ public class PlantaSinFloresFragment extends Fragment {
         AdapterView adapter = new AdapterView(listaPAA);
         rv_sinflores.setAdapter(adapter);
 
+        adapter.setOnClickVerListener(new AdapterView.OnItemClickVerListener() {
+            @Override
+            public void onItemVerClick(PlantasArbustosArboles paa) {
+                verPlantasSinFlores(paa);
+            }
 
+        });
 
         return vista;
+    }
+
+    private void verPlantasSinFlores(PlantasArbustosArboles paa) {
+        Intent i = new Intent(getContext(), CaracteristicasActivity.class);
+        i.putExtra("objeto", (Parcelable) paa);
+        startActivity(i);
     }
 
     private void llenarLista() {

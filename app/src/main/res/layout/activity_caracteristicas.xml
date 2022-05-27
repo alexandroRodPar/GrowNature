@@ -95,48 +95,10 @@
                 android:layout_marginStart="48dp"
                 android:layout_marginEnd="16dp"
                 android:text="asdadsa"
-                app:layout_constraintBottom_toTopOf="@+id/tv_riego"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tv_plantacion" />
-
-            <TextView
-                android:id="@+id/tv_riego"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="32dp"
-                android:layout_marginTop="16dp"
-                android:text="@string/tv_riego"
-                android:textColor="#000000"
-                android:textStyle="bold"
-                app:layout_constraintBottom_toTopOf="@+id/tv_textRiego"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tv_textPlantacion" />
-
-            <TextView
-                android:id="@+id/tv_textRiego"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="48dp"
-                android:layout_marginEnd="16dp"
-                android:text="TextView"
-                app:layout_constraintBottom_toTopOf="@+id/tv_clima"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tv_riego" />
-
-            <TextView
-                android:id="@+id/tv_clima"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="32dp"
-                android:layout_marginTop="16dp"
-                android:text="@string/tv_clima"
-                android:textColor="#000000"
                 app:layout_constraintBottom_toTopOf="@+id/tv_crecimiento"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tv_textRiego" />
+                app:layout_constraintTop_toBottomOf="@+id/tv_plantacion" />
 
             <TextView
                 android:id="@+id/tv_crecimiento"
@@ -149,7 +111,7 @@
                 android:textStyle="bold"
                 app:layout_constraintBottom_toTopOf="@+id/tv_textCrecimiento"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tv_clima" />
+                app:layout_constraintTop_toBottomOf="@+id/tv_textPlantacion" />
 
             <TextView
                 android:id="@+id/tv_textCrecimiento"
@@ -158,10 +120,48 @@
                 android:layout_marginStart="48dp"
                 android:layout_marginEnd="16dp"
                 android:text="TextView"
-                app:layout_constraintBottom_toTopOf="@+id/tv_precioAprox"
+                app:layout_constraintBottom_toTopOf="@+id/tv_clima"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/tv_crecimiento" />
+
+            <TextView
+                android:id="@+id/tv_clima"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="16dp"
+                android:text="@string/tv_clima"
+                android:textColor="#000000"
+                app:layout_constraintBottom_toTopOf="@+id/tv_riego"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tv_textCrecimiento" />
+
+            <TextView
+                android:id="@+id/tv_riego"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="16dp"
+                android:text="@string/tv_riego"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/tv_textRiego"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tv_clima" />
+
+            <TextView
+                android:id="@+id/tv_textRiego"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="48dp"
+                android:layout_marginEnd="16dp"
+                android:text="TextView"
+                app:layout_constraintBottom_toTopOf="@+id/tv_precioAprox"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tv_riego" />
 
             <TextView
                 android:id="@+id/tv_precioAprox"
@@ -175,7 +175,7 @@
                 app:layout_constraintBottom_toTopOf="@+id/tv_lugaresComprar"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tv_textCrecimiento" />
+                app:layout_constraintTop_toBottomOf="@+id/tv_textRiego" />
 
             <TextView
                 android:id="@+id/tv_lugaresComprar"
@@ -199,13 +199,13 @@
                 android:text="@string/tv_textEjemplo"
                 android:textColor="#000000"
                 android:textStyle="bold"
-                app:layout_constraintBottom_toTopOf="@+id/imageView3"
+                app:layout_constraintBottom_toTopOf="@+id/iv_ejemploImagen"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/tv_lugaresComprar" />
 
             <ImageView
-                android:id="@+id/imageView3"
+                android:id="@+id/iv_ejemploImagen"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
