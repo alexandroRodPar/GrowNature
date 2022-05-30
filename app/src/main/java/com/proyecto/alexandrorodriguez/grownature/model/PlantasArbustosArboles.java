@@ -1,6 +1,9 @@
 package com.proyecto.alexandrorodriguez.grownature.model;
 
-public class PlantasArbustosArboles {
+import java.io.Serializable;
+
+public class PlantasArbustosArboles implements Serializable {
+
     /**ATRIBUTOS**/
     private String nombre;
     private String descripcion;
@@ -32,6 +35,7 @@ public class PlantasArbustosArboles {
     }
     public PlantasArbustosArboles() {
     }
+
     /**GETTERS Y SETTERS**/
     public String getNombre() {
         return nombre;
