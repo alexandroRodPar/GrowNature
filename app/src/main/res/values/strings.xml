@@ -81,15 +81,6 @@
     <string name="precio_bambu">50 Semillas de bambú unos 7 u 8€. Planta de bambú unos 30€.</string>
     <string name="donde_comprar_bambu">Tienda Online: Amazon, Ebay</string>
 
-    <!-- AGAPANTO -->
-    <string name="nombre_agapanto">Agapanto</string>
-    <string name="descripcion_agapanto">Se les llama la flor del amor, son plantas adaptables y de fácil cultivo. Su época de floración es a finales de primavera y verano</string>
-    <string name="plantacion_agapanto">El mejor momento para plantarla es en primavera.</string>
-    <string name="crecimiento_agapanto">Una vez plantado suele tardar de dos a tres años en florecer.</string>
-    <string name="riego_agapanto">Es una planta que necesita bastante agua, en los climas cálidos regarla con días intercalados, y en clima frío cada dos o tres días.</string>
-    <string name="clima_agapanto">Es una planta bastante resistente, pero lo mejor es que el clima no sea muy húmedo.</string>
-    <string name="precio_agapanto">Aproximadamente 10€ una planta joven en tienda online.</string>
-    <string name="donde_comprar_agapanto">Tienda Online; The Original Garden, Planflor-es</string>
 
     <!-- LAMIUM MACULATUM MIX -->
     <string name="nombre_lamium_maculatum_mix">Lamium Maculatum Mix</string>

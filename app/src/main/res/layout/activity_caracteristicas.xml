@@ -24,18 +24,18 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
-                android:layout_marginTop="42dp"
                 android:layout_marginEnd="16dp"
                 android:fontFamily="@font/almendra"
                 android:text="HELECHOS"
                 android:textAlignment="center"
                 android:textColor="#FFFFFF"
-                android:textSize="48sp"
+                android:textSize="30sp"
                 android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/iv_fotoPlanta"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.5"
                 app:layout_constraintStart_toEndOf="@+id/iv_fotoPlanta"
-                app:layout_constraintTop_toTopOf="parent" />
+                app:layout_constraintTop_toTopOf="@+id/iv_fotoPlanta" />
 
             <ImageView
                 android:id="@+id/iv_fotoPlanta"
@@ -48,7 +48,7 @@
                 app:layout_constraintHorizontal_bias="0.5"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                tools:srcCompat="@drawable/helechos" />
+                tools:srcCompat="@drawable/helecho_principal" />
 
             <TextView
                 android:id="@+id/tv_descPlanta"
@@ -214,7 +214,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/tv_textEjemplo"
-                tools:srcCompat="@drawable/ejemplo_helechos" />
+                tools:srcCompat="@drawable/helecho_ejemplo" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
