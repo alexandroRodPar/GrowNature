@@ -628,4 +628,11 @@
     <string name="precio_laurel">En tienda online puede costar unos 10€ un paquete de varias semillas.</string>
     <string name="donde_comprar_laurel">Tienda online: ManoMano, The Original Garden.</string>
 
+    <!-- LOGIN Y REGISTRO -->
+    <string name="registro_correcto">LISTO YA PUEDE INICIAR SESION</string>
+    <string name="registro_incorrecto">CORREO ELECTRONICO EN USO</string>
+    <string name="logeo_incorrecto">LAS CREDENCIALES NO SON CORRECTAS</string>
+    <string name="text_logeo">EL CAMPO EMAIL O EL CAMPO PASSWORD ESTAN VACIOS</string>
+    <string name="text_registro">PARA REGISTRARSE DEBERA RELLENAR LOS ANTERIORES CAMPOS Y VOLVER A REGISTRARSE</string>
+
 </resources>

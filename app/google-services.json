@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128396822248",
+    "project_id": "grownature-3a720",
+    "storage_bucket": "grownature-3a720.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128396822248:android:a9f06b526eab8597c96b5d",
+        "android_client_info": {
+          "package_name": "com.proyecto.alexandrorodriguez.grownature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128396822248-91sddl5vqc014l4jf2g8sjig4hrs6q4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPDK0aFPoQWY2KWx7eF8nxGdBS4NDF1ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128396822248-91sddl5vqc014l4jf2g8sjig4hrs6q4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
