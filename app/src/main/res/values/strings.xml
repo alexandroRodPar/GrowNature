@@ -49,8 +49,8 @@
     <string name="tv_textEjemplo">EJEMPLO</string>
 
 
-<!-- Características de las plantas y demás -->
-  <!-- PLANTAS SIN FLORES-->
+    <!-- Características de las plantas y demás -->
+    <!-- PLANTAS SIN FLORES-->
     <!-- HELECHOS -->
     <string name="nombre_helecho">HELECHO</string>
     <string name="descripcion_helecho">Los helechos son plantas milenarias y ornamentales con características únicas dentro del reino vegetal. Poseen un ciclo reproductivo muy particular, ya que a diferencia de casi todas las plantas, los helechos no se reproducen por semillas sino que lo hacen a través de la producción y liberación de miles de esporas. Esta hermosa planta proveniente de zonas cálidas y húmedas se ha convertido, gracias a su vistosidad y adaptabilidad, en la invitada permanente en hogares y oficinas. Se estima que existen más de diez mil especies de helechos en todo el planeta.</string>
@@ -142,7 +142,7 @@
     <string name="precio_kentia">En tienda online puede costar de 25 a 60€ la planta joven. Unas semillas de esta planta pueden costar unos 15€.</string>
     <string name="donde_comprar_kentia">Tienda online: Jardinería Ourense, Groupon ES, Vivarium, Amazon.</string>
 
-  <!-- PLANTAS CON FLORES -->
+    <!-- PLANTAS CON FLORES -->
     <!-- GLICINIA -->
     <string name="nombre_glicinia">Glicinia</string>
     <string name="descripcion_glicinia">Es una planta trepadora, que libera un aroma que huele especialmente bien. Y tiene una hermosa floración con unos colores muy llamativos.</string>
@@ -343,7 +343,7 @@
     <string name="precio_flor_de_loto">En tienda online puede costar de 6 a 25€ un paquete de varias semillas.</string>
     <string name="donde_comprar_flor_de_loto">Tienda online: ManoMano, Ebay.</string>
 
-  <!-- ARBUSTOS -->
+    <!-- ARBUSTOS -->
     <!-- GALÁN DE NOCHE -->
     <string name="nombre_galan_de_noche">Galán de Noche</string>
     <string name="descripcion_galan_de_noche">Cestrum nocturnum llamada comúnmente dama de noche o galán de noche es una planta de la familia de las solanáceas. Nativa de América, se ha naturalizado en Asia Meridional y se cultiva ampliamente en los trópicos.​</string>
@@ -485,8 +485,7 @@
     <string name="donde_comprar_aralia_de_japon">Tienda online: Jardinería Ourense, Etsy.</string>
 
 
-
-  <!-- ÁRBOLES -->
+    <!-- ÁRBOLES -->
     <!-- ARCE JAPONÉS -->
     <string name="nombre_arce_japones">Arce Japonés</string>
     <string name="descripcion_arce_japones">El arce japonés palmeado, arce palmado japonés, arce japonés o arce polimorfo, es una especie de arce nativa de Japón y de Corea del Sur. Algunas fuentes aseveran que también es nativa de China, pero otras tratan arces chinos similares como especies separadas.</string>
@@ -634,5 +633,7 @@
     <string name="logeo_incorrecto">LAS CREDENCIALES NO SON CORRECTAS</string>
     <string name="text_logeo">EL CAMPO EMAIL O EL CAMPO PASSWORD ESTAN VACIOS</string>
     <string name="text_registro">PARA REGISTRARSE DEBERA RELLENAR LOS ANTERIORES CAMPOS Y VOLVER A REGISTRARSE</string>
+    <string name="tv_soporteGrowNature">SOPORTE DE GROW NATURE</string>
+    <string name="text_chat_default">Escriba su consulta</string>
 
 </resources>
