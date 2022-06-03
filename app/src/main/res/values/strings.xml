@@ -7,37 +7,28 @@
     <string name="nav_header_desc">Navigation header</string>
 
     <string name="texto_inicio">Inicio</string>
+    <string name="tv_infoIni">Esta aplicación te ayudará a decorar cualquier parte de la casa, o de campo abierto, que tu desees, cada tipo de planta, arbusto o árbol que se encuentra en esta aplicación conllevan descripción, y varias de sus características, para que tú puedas plantarla, y poder tener una zona bonita y llena de naturaleza, por que en esta aplicación lo que también queremos es que la naturaleza crezca y que este planeta este lleno de color.</string>
     <string name="tv_Info">Esta app te va a ayudar a decorar tu jardín, con diferentes tipos de plantas, arbustos y árboles de decoración.</string>
     <string name="et_EmailUsuario">Email</string>
     <string name="et_Password">Password</string>
     <string name="bIniSes">Iniciar Sesion</string>
     <string name="bRegis">Registrarse</string>
-    <string name="texto_ArbolesDec">Arboles Decorativos</string>
-    <string name="texto_ejemplos">Galeria de Ejemplos</string>
+    <string name="texto_ArbolesDec">Arboles decorativos</string>
     <string name="texto_config">Configuración</string>
     <string name="texto_planSinFlorDec">Plantas sin flores decorativas</string>
-    <string name="texto_search">Search</string>
     <string name="texto_prefere">Preferencias</string>
     <string name="action_contact">Contácteme</string>
 
-    <string name="texto_arbustosDec">Arbustos Decorativos</string>
+    <string name="texto_arbustosDec">Arbustos decorativos</string>
     <string name="texto_planConFlorDec">Plantas con flores decorativas</string>
     <!-- Preference Titles -->
     <string name="datos_usuario">DATOS USUARIO</string>
-    <string name="sync_header">Sync</string>
+    <string name="calificacion">CALIFICACIÓN</string>
 
     <!-- Messages Preferences -->
     <string name="nombre_title">Nombre completo</string>
     <string name="genero_title">Género</string>
 
-    <!-- Sync Preferences -->
-    <string name="sync_title">Sync email periodically</string>
-    <string name="attachment_title">Download incoming attachments</string>
-    <string name="attachment_summary_on">Automatically download attachments for incoming emails
-    </string>
-    <string name="attachment_summary_off">Only download attachments when manually requested</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="tv_nombreIni">GROW NATURE</string>
     <string name="tv_descPlanta">Descripción</string>
     <string name="tv_plantacion">Plantación</string>
@@ -635,5 +626,13 @@
     <string name="text_registro">PARA REGISTRARSE DEBERA RELLENAR LOS ANTERIORES CAMPOS Y VOLVER A REGISTRARSE</string>
     <string name="tv_soporteGrowNature">SOPORTE DE GROW NATURE</string>
     <string name="text_chat_default">Escriba su consulta</string>
+    <string name="scp_plantaFav">¿Cuál es tu planta favorita?</string>
+    <string name="scp_calificanos">Califica la aplicación del 0 - 10</string>
+    <string name="mensaje_fecha">Fecha: %1$s</string>
+    <string name="mensaje_horario">Horario: %1$s</string>
+    <string name="mensaje_sala">Sala: %1$s</string>
+    <string name="titulo_dialog_conferencia">Información Conferencia</string>
+    <string name="ok">OK</string>
+
 
 </resources>

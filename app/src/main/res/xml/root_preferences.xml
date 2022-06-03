@@ -20,19 +20,17 @@
 
     </PreferenceCategory>
 
-    <PreferenceCategory app:title="@string/sync_header">
-
-        <SwitchPreferenceCompat
-            app:key="sync"
-            app:title="@string/sync_title" />
-
-        <SwitchPreferenceCompat
-            app:dependency="sync"
-            app:key="attachment"
-            app:summaryOff="@string/attachment_summary_off"
-            app:summaryOn="@string/attachment_summary_on"
-            app:title="@string/attachment_title" />
-
+    <PreferenceCategory app:title="@string/calificacion">
+        <EditTextPreference
+            android:key="scp_plantaFav"
+            android:title="scp_plantaFav"
+            app:title="@string/scp_plantaFav"
+            app:useSimpleSummaryProvider="true" />
+        <EditTextPreference
+            android:key="scp_calificanos"
+            android:title="scp_calificanos"
+            app:title="@string/scp_calificanos"
+            app:useSimpleSummaryProvider="true" />
     </PreferenceCategory>
 
 </PreferenceScreen>

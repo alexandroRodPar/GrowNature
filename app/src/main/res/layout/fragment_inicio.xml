@@ -30,7 +30,7 @@
         android:layout_marginTop="96dp"
         android:layout_marginEnd="16dp"
         android:fontFamily="@font/almendra"
-        android:text="Esta aplicación te ayudará a decorar culquier parte de la casa, o de campo abierto, que tu desees, cada tipo de planta, arbusto o árbol que se encuentra en esta aplicación llevan descripcion, y varias de sus características, para que tu puedas plantarla, y poder tener una zona bonita y llena de naturaleza, por que en esta aplicación lo que también queremos es que la naturaleza crezca y que este planeta este lleno de color."
+        android:text="@string/tv_infoIni"
         android:textAlignment="center"
         android:textColor="#424242"
         android:textSize="20sp"
