@@ -7,11 +7,11 @@
     <string name="nav_header_desc">Navigation header</string>
 
     <string name="texto_inicio">Inicio</string>
-    <string name="tv_infoIni">Esta aplicación te ayudará a decorar cualquier parte de la casa, o de campo abierto, que tu desees, cada tipo de planta, arbusto o árbol que se encuentra en esta aplicación conllevan descripción, y varias de sus características, para que tú puedas plantarla, y poder tener una zona bonita y llena de naturaleza, por que en esta aplicación lo que también queremos es que la naturaleza crezca y que este planeta este lleno de color.</string>
+    <string name="tv_infoIni">Esta aplicación te ayudará a decorar cualquier parte de la casa, o de campo abierto, que tu desees, cada tipo de planta, arbusto o árbol que se encuentra en esta aplicación conlleva una descripción, y varias de sus características, para que tú puedas plantarla, y poder tener una zona bonita y llena de naturaleza, por que en esta aplicación lo que también queremos es que la naturaleza crezca y que este planeta este lleno de color y de vida vegetal.</string>
     <string name="tv_Info">Esta app te va a ayudar a decorar tu jardín, con diferentes tipos de plantas, arbustos y árboles de decoración.</string>
     <string name="et_EmailUsuario">Email</string>
     <string name="et_Password">Password</string>
-    <string name="bIniSes">Iniciar Sesion</string>
+    <string name="bIniSes">Iniciar Sesión</string>
     <string name="bRegis">Registrarse</string>
     <string name="texto_ArbolesDec">Arboles decorativos</string>
     <string name="texto_config">Configuración</string>
@@ -619,11 +619,11 @@
     <string name="donde_comprar_laurel">Tienda online: ManoMano, The Original Garden.</string>
 
     <!-- LOGIN Y REGISTRO -->
-    <string name="registro_correcto">LISTO YA PUEDE INICIAR SESION</string>
-    <string name="registro_incorrecto">CORREO ELECTRONICO EN USO</string>
+    <string name="registro_correcto">LISTO YA PUEDE INICIAR SESIÓN</string>
+    <string name="registro_incorrecto">CORREO ELECTRÓNICO EN USO</string>
     <string name="logeo_incorrecto">LAS CREDENCIALES NO SON CORRECTAS</string>
-    <string name="text_logeo">EL CAMPO EMAIL O EL CAMPO PASSWORD ESTAN VACIOS</string>
-    <string name="text_registro">PARA REGISTRARSE DEBERA RELLENAR LOS ANTERIORES CAMPOS Y VOLVER A REGISTRARSE</string>
+    <string name="text_logeo">EL CAMPO EMAIL O EL CAMPO PASSWORD ESTÁN VACÍOS</string>
+    <string name="text_registro">PARA REGISTRARSE DEBERÁ RELLENAR LOS ANTERIORES CAMPOS Y VOLVER A REGISTRARSE</string>
     <string name="tv_soporteGrowNature">SOPORTE DE GROW NATURE</string>
     <string name="text_chat_default">Escriba su consulta</string>
     <string name="scp_plantaFav">¿Cuál es tu planta favorita?</string>
